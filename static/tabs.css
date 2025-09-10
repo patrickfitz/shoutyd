@@ -1,0 +1,32 @@
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+nav.tabs {
+    display: flex;
+    justify-content: left;
+    gap: 1rem;
+    border-bottom: 2px solid;
+    border-bottom-color: var(--geeko-blue);
+    margin-bottom: 1rem;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+nav.tabs button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-weight: normal;
+    background-color: var(--geeko-blue);
+    color: var(--geeko-light);
+}
+
+nav.tabs button.active {
+    color: var(--geeko-green-light);
+    font-weight: bold;
+}

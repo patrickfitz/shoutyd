@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>ShoutyD: {{ PRETTY_NAME }} News</title>
+    <script src="webui.js"></script>
+    <script>
+        webui.setLogging(true);
+    </script>
+    <!--<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Icons">-->
+    <link rel="stylesheet" href="static/simple.css">
+    <link rel="stylesheet" href="static/style.css">
+    <link rel="stylesheet" href="static/loader.css">
+    <link rel="stylesheet" href="static/tabs.css">
+</head>
+<body>
+
+<!-- main body starts here -->
+<div class="layout">
+    <header class="header">
+        <img class="logo" src="static/shoutyd.png" alt="Welcome to ShoutyD">
+        <div class="welcome">
+            <h1>Welcome to {{ PRETTY_NAME }}.</h1>
+            <p>You are running version {{ VERSION_ID | date:"%B %d, %Y" }}.</p>
+        </div>
+    </header>
+    <main class="content">
+        <div class="tabset">
+            <!-- Tab 1 -->
+            <input type="radio" name="tabset" id="tab1" aria-controls="home" checked>
+            <label for="tab1">Home</label>
+
+            <!-- Tab 2 -->
+            <input type="radio" name="tabset" id="tab2" aria-controls="openSUSE">
+            <label for="tab2">openSUSE</label>
+
+            <!-- Tab 3 -->
+            <input type="radio" name="tabset" id="tab3" aria-controls="dunkles">
+            <label for="tab3">Dunkles Bock</label>
+
+            <div class="tab-panels">
+                <section id="home" class="tab-panel">
+                    <h2>About openSUSE</h2>
+                    <p>openSUSE is a powerful, stable, and flexible Linux distribution loved by developers and system
+                        administrators
+                        around the world.</p>
+                    <h3>Todays News:</h3>
+                    <div class="news">{# latest_news #}</div>
+                    <h2>Join the openSUSE Community</h2>
+                    <p>Connect with other users, developers, and contributors today!</p>
+                </section>
+
+
+                <section id="openSUSE" class="tab-panel">
+                    <h2>6B. Rauchbier</h2>
+                    <p><strong>Overall Impression:</strong> An elegant, malty German amber lager with a balanced,
+                        complementary
+                        beechwood smoke character. Toasty-rich malt in aroma and flavor, restrained bitterness, low to
+                        high
+                        smoke flavor, clean fermentation profile, and an attenuated finish are characteristic.</p>
+                    <p><strong>History:</strong> A historical specialty of the city of Bamberg, in the Franconian region
+                        of
+                        Bavaria in Germany. Beechwood-smoked malt is used to make a Märzen-style amber lager. The smoke
+                        character of the malt varies by maltster; some breweries produce their own smoked malt
+                        (rauchmalz).</p>
+                </section>
+
+                <section id="dunkles" class="tab-panel">
+                    <h2>6C. Dunkles Bock</h2>
+                    <p><strong>Overall Impression:</strong> A dark, strong, malty German lager beer that emphasizes the
+                        malty-rich and somewhat toasty qualities of continental malts without being sweet in the finish.
+                    </p>
+                    <p><strong>History:</strong> Originated in the Northern German city of Einbeck, which was a brewing
+                        center
+                        and popular exporter in the days of the Hanseatic League (14th to 17th century). Recreated in
+                        Munich
+                        starting in the 17th century. The name “bock” is based on a corruption of the name “Einbeck” in
+                        the
+                        Bavarian dialect, and was thus only used after the beer came to Munich. “Bock” also means “Ram”
+                        in
+                        German, and is often used in logos and advertisements.</p>
+                </section>
+            </div>
+        </div>
+    </main>
+    <footer class="footer">
+       <button class="btn" id="settings_data" title="Change the settings of ShoutyD" href="">
+            <span class="material-icons md-24">settings</span>
+            Settings
+        </button>
+        <button class="btn" id="hardware_data" title="help by uploading system details" href="">
+            <span class="material-icons md-24">file_upload</span>
+            Upload Hardware Info
+        </button>
+        <button class="btn" id="donate_now" title="help by donation" target="_blank" href="https://geekos.org/donate/">
+            <span class="material-icons md-24">volunteer_activism</span>
+            Donate now!
+        </button>
+        <button class="btn" id="about_data" title="All about ShoutyD" href="">
+            <span class="material-icons md-24">info</span>
+            About
+        </button>
+        <button class="btn" id="theme-toggle" title="Color Mode">
+            <span class="material-icons md-24">dark_mode</span>
+            Color Mode
+        </button>
+        <p><a href="https://geekos.org" target="_blank">&copy; 2025 Geeko Foundation</a></p>
+    </footer>
+
+</div>
+<script src="static/shouty.js"></script>
+</body>
+</html>

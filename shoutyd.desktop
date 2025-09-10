@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ShoutyD
+Exec=/usr/local/bin/shoutyd
+Icon=shoutyd.svg
+Terminal=false
+Type=Application
+Categories=Utility;
+MimeType=x-scheme-handler/shoutyd;

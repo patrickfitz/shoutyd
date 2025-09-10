@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ShoutyD: {{ PRETTY_NAME }} News</title>
+<script src="webui.js"></script>
+
+<style>
+body {font-family: "Lato", sans-serif;}
+
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 50px;
+  text-align: center;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+
+</style>
+</head>
+<body>
+<h1>Welcome to {{ osrel.PRETTY_NAME }}.</h1>
+<p>You are running version {{ osrel.VERSION_ID | date:"%B %d, %Y" }}.</p>
+--->
+{% for entry in feeds[feed_name] %}
+    {{ entry.title }} hello
+{% endfor %}
+<---
+
+{% for feed in feeds %}
+    <h2>{{ feed.title }}</h2>
+    <button class="tablink" onclick="showFeed('{{ feed.title }}', this, '{{ tab.color }}')" {% if forloop.first %}id="defaultOpen"{% endif %}>
+{% endfor %}
+
+
+{% for feed in feeds %}
+    <div id="{{ feed.title }}" class="tabcontent">
+    {{ feed.title }}
+    {{ feed.description }}
+    <a target="_blank" href="{{ feed.url }}">{{ feed.url }}</a>
+    </div>
+{% endfor %}
+
+<script>
+function showFeed(feedName, elmnt) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].style.backgroundColor = "";
+  }
+}
+
+document.getElementById("defaultOpen").click();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>ShoutyD: {{ PRETTY_NAME }} News</title>
+    <script src="webui.js"></script>
+    <script>
+        webui.setLogging(true);
+    </script>
+    <link rel="stylesheet"  href="static/pico.green.css">
+    <link rel="stylesheet" href="static/style.css">
+    <link rel="stylesheet" href="static/tabs.css">
+</head>
+<body>
+<div class="layout">
+    <header class="header">
+        <div class="welcome">
+        <img class="logo" src="static/shoutyd.png" alt="Welcome to ShoutyD">
+            <div>
+            <h1 class="header">Welcome to {{ osrel.PRETTY_NAME }}.</h1>
+            <p class="header">You are running version {{ osrel.VERSION_ID | date:"%B %d, %Y" }}.</p>
+            </div>
+        </div>
+    </header>
+    <div class="nav">
+        <button class="btn" id="welcome" title="a simple jumping off point" href="{{ DOCUMENTATION_URL }}">
+            <span class="material-icons md-24">description</span>Documentation
+        </button>
+        <button class="btn" id="desktop_help" title="a quick guide to your {{ desktop }} desktop" href="">
+            <span class="material-icons md-24">tour</span>{{ desktop }} Guide
+        </button>
+        <button class="btn" id="go_meet" title="head over to the bar for tips and tricks...">
+            <span class="material-icons md-24">forum</span>
+            Bar
+        </button>
+        <button class="btn" id="check_calendar" title="Check the openSUSE Calendar">
+            <span class="material-icons md-24">calendar_month</span>
+            Calendar
+        </button>
+
+        {% if has_sudo or is_root %}
+        <button class="btn" id="os_update" title="Update Time!">
+            <span class="material-icons md-24">system_update_alt</span>
+            Update
+            <span class="badge">New!</span>
+        </button>
+        {% endif %}
+
+        <!--<button class="btn" id="news_data" title="refresh the news now...">
+            <span class="material-icons md-24">refresh</span>
+            Refresh
+        </button>-->
+    </div>
+    <!-- main body starts here -->
+    {% block content %}
+    there is nothing to see here.
+    {% endblock %}
+    <!-- main body ends here -->
+
+    <footer class="footer">
+        <button class="btn" id="settings_data" title="Change the settings of ShoutyD" href="">
+            <span class="material-icons md-24">settings</span>
+            Settings
+        </button>
+        <button class="btn" id="hardware_data" title="help by uploading system details" href="">
+            <span class="material-icons md-24">file_upload</span>
+            Upload Hardware Info
+        </button>
+        <button class="btn" id="donate_now" title="help by donation" target="_blank" href="https://geekos.org/donate/">
+            <span class="material-icons md-24">volunteer_activism</span>
+            Donate now!
+        </button>
+        <button class="btn" id="about_data" title="All about ShoutyD" href="">
+            <span class="material-icons md-24">info</span>
+            About
+        </button>
+        <!--<button class="btn" id="theme-toggle2" title="Color Mode">
+            <span class="material-icons md-24">dark_mode</span>
+        </button>-->
+        <br/>
+        <a href="https://geekos.org" target="_blank">&copy;&nbsp;2025 Geeko Foundation</a>
+        <span id="theme-toggle" class="material-icons md-12">dark_mode</span>
+    </footer>
+
+
+    <!--<script>
+        // Handle form submission
+        document.getElementById('userForm').addEventListener('submit', function(event) {
+            event.preventDefault(); // Prevent default form submission
+            const jsonData = getFormDataAsJSON(this);
+            console.log(jsonData);
+            // Call the Python function via WebUI
+            webui.call('process_form', jsonData);
+        });
+        //crap();
+    </script>-->
+
+    <!-- Material-style Dialog -->
+
+    <div id="material-dialog" class="dialog-overlay" style="display: none;">
+        <div class="dialog-container" onclick="event.stopPropagation()">
+            <div class="dialog-close" onclick="hideDialog()">✕</div>
+            <h2 class="dialog-title">Loading...</h2>
+            <p class="dialog-message">
+            <div id="loader" class="loader">Loading...</div>
+
+            <form id="userForm">
+                <input type="radio" id="on_login" name="popup_frequency" value="login">
+                <label for="login">On Login</label><br>
+                <input type="radio" id="on_update" name="popup_frequency" value="update">
+                <label for="update">On Update</label><br>
+                <input type="radio" id="never" name="popup_frequency" value="never">
+                <label for="never">Never Show</label><br>
+                <!-- notification behaviour -->
+
+                <input type="radio" id="notify_update" name="notify_for" value="update">
+                <label for="notify_update">Notify On Updates (all)</label><br>
+                <input type="radio" id="notify_security" name="notify_for" value="security">
+                <label for="notify_update">Security Update (only)</label><br>
+                <input type="radio" id="notify_never" name="notify_for" value="never">
+                <label for="notify_update">Never Notify.</label><br>
+                <div class="dialog-actions">
+                    <button class="dialog-btn dialog-cancel" onclick="hideDialog()">Cancel</button>
+                    <!--<button class="dialog-btn dialog-confirm" type="submit">Submit</button>-->
+
+                    <button class="dialog-btn dialog-confirm" type="submit" onclick="submitDialog()">Submit</button>
+                </div>
+            </form>
+            </p>
+        </div>
+    </div>
+
+    <script src="static/shouty.js"></script>
+</body>
+</html>

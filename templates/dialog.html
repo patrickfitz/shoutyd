@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pico.css Dialog</title>
+  <link rel="stylesheet" href="/static/pico.green.css" />
+</head>
+<body>
+
+  <main class="container">
+    <h1>About</h1>
+    <button id="openAboutDialog">About...</button>
+    <h1>Form</h1>
+    <button id="formDialog">Settings</button>
+
+  </main>
+
+<dialog id="formDialog">
+  <article>
+    <header><h3>Login</h3></header>
+    <form method="dialog">
+      <label>
+        Email
+        <input type="email" required />
+      </label>
+      <label>
+        Password
+        <input type="password" required />
+      </label>
+      <footer>
+        <button type="submit">Login</button>
+        <button type="button" class="secondary" onclick="loginDialog.close()">Cancel</button>
+      </footer>
+    </form>
+  </article>
+</dialog>
+
+  <dialog id="aboutDialog">
+    <article>
+      <header>
+        <h3>About ShoutyD Feature Announcer</h3>
+      </header>
+        <p>Linux introduces new features all the time. Use this tool to see what has changed from the last update!</p>
+        <p>Also, help the development of Linux by opting in to uploads of hardware and usage information.</p>
+      <p>&copy; 2025 Patrick Fitzgerald, <a href="https://geekos.org" target="_blank">Geeko Foundation</a></p>
+      <footer>
+        <button id="closeDialog" class="secondary">Close</button>
+      </footer>
+    </article>
+  </dialog>
+
+  <script>
+    const dialog = document.getElementById('aboutDialog');
+    document.getElementById('openAboutDialog').addEventListener('click', () => dialog.showModal());
+    document.getElementById('closeDialog').addEventListener('click', () => dialog.close());
+  </script>
+
+</body>
+</html>

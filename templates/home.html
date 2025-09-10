@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block content %}
+
+    <div class="content">
+        {% include "tabs.html" %}
+        <!-- live tab content is here -->
+    </div>
+
+<!-- about dialog sections -->
+  <dialog id="aboutDialog">
+    <article>
+      <header>
+        <h3>About ShoutyD News Announcer<button rel="prev" onclick="aboutDialog.close()"></h3>
+      </header>
+        <p>Linux introduces new features all the time. Use ShoutyD to stay informed about changes from the last update!</p>
+        <p>Also, help the development of Linux by opting in to uploads of hardware and usage information.</p>
+        <p>Running on {{ osrel.PRETTY_NAME }}, version {{ osrel.VERSION_ID | date:"%B %d, %Y" }}.</p>
+        <p>&copy; 2025 Patrick Fitzgerald, <a href="https://geekos.org" target="_blank">Geeko Foundation</a></p>
+      <footer>
+        <button id="closeDialog" class="secondary">Close</button>
+      </footer>
+    </article>
+  </dialog>
+<!-- about dialog sections -->
+  <dialog id="settingsDialog">
+  <article>
+    <header><h3>Login <button rel="prev" onclick="settingsDialog.close()"></h3></header>
+    <form method="dialog">
+      <label>
+        Email
+        <input type="email" required />
+      </label>
+      <label>
+        Password
+        <input type="password" required />
+      </label>
+      <footer>
+            <button class="secondary" onclick="settingsDialog.close()">Cancel</button>
+            <button>Confirm</button>
+        <!--<button type="submit">Save</button>
+        <button type="button" class="secondary" >Cancel</button>-->
+      </footer>
+    </form>
+  </article>
+</dialog>
+
+
+{% endblock %}

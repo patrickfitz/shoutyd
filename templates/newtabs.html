@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tabbed Interface with Pico CSS</title>
+  <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css" />
+  <style>
+    .tab-content {
+      display: none;
+    }
+
+    .tab-content.active {
+      display: block;
+    }
+
+    nav.tabs {
+      display: flex;
+      gap: 1rem;
+      border-bottom: 1px solid var(--muted-border-color);
+      padding-bottom: 0.5rem;
+    }
+
+    nav.tabs button {
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-weight: bold;
+      color: var(--primary);
+    }
+
+    nav.tabs button.active {
+      border-bottom: 2px solid var(--primary);
+    }
+  </style>
+</head>
+<body>
+
+<main class="container">
+
+  <h1>Tabbed Interface</h1>
+
+  <nav class="tabs">
+    <button class="active" data-tab="tab1">Tab 1</button>
+    <button data-tab="tab2">Tab 2</button>
+    <button data-tab="tab3">Tab 3</button>
+  </nav>
+
+  <section id="tab1" class="tab-content active">
+    <p>This is the content of Tab 1.</p>
+  </section>
+
+  <section id="tab2" class="tab-content">
+    <p>This is the content of Tab 2.</p>
+  </section>
+
+  <section id="tab3" class="tab-content">
+    <p>This is the content of Tab 3.</p>
+  </section>
+
+</main>
+
+<script>
+  const buttons = document.querySelectorAll('.tabs button');
+  const contents = document.querySelectorAll('.tab-content');
+
+  buttons.forEach(button => {
+    button.addEventListener('click', () => {
+      // Remove active classes
+      buttons.forEach(btn => btn.classList.remove('active'));
+      contents.forEach(tab => tab.classList.remove('active'));
+
+      // Add active class to clicked tab and corresponding content
+      button.classList.add('active');
+      document.getElementById(button.dataset.tab).classList.add('active');
+    });
+  });
+</script>
+
+</body>
+</html>

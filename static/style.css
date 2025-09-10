@@ -1,0 +1,206 @@
+/* dark mode tips from https://css-tricks.com/come-to-the-light-dark-side/  */
+
+@font-face {
+    font-family: "SUSE";
+    src: url("SUSE-Medium.ttf") format('truetype');
+}
+
+/* self hosted google icons */
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url("MaterialIcons-Regular.ttf") format('truetype');
+}
+
+:root,
+:host {
+    --geeko-green: #73ba25;
+    --geeko-green-dark: #252d25;
+    --geeko-gray: #333;
+    --geeko-gray-light: #c5cace;
+    --geeko-green-light: #35b9ab;
+    --geeko-blue: #173f4f;
+    --geeko-blue-light: #21a4df;
+    --geeko-light: #eeffee;
+    --font-primary: 'SUSE', Tahoma, Geneva, Verdana, sans-serif;
+
+    --light-bg: ghostwhite;
+    --light-color: var(--geeko-blue);
+
+    --dark-bg: #021f16;
+    --dark-color: #d3feff;
+    /*--accent: var(--geeko-blue);
+    --accent-hover: var(--geeko-green);*/
+
+    --pico-font-family: var(--font-primary);
+    /*--pico-background-color: light-dark(var(--light-bg), var(--dark-bg));
+    --pico-color: light-dark(var(--geeko-green-dark), var(--light-bg));
+
+    /*
+    background-color: light-dark(var(--light-bg), var(--dark-bg));
+    color: light-dark(var(--geeko-green-dark), var(--light-bg));
+    /*color: light-dark(var(--light-color), var(--dark-color));*/
+    /*background: light-dark(var(--light-bg), var(--dark-bg));*/
+    font-size: 14px; /* Base size for rems */
+    color-scheme: light dark;
+
+    /*dialog styling values*/
+    /*--dialog-bg: #fff;
+    --dialog-bg: light-dark(var(--light-bg), var(--dark-bg));
+    --dialog-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    --dialog-radius: 6px;
+    --dialog-title-color: #333;
+    --dialog-title-color: light-dark(var(--light-color), var(--dark-color));
+    --dialog-message-color: #555;
+    --dialog-message-color: light-dark(var(--light-color), var(--dark-color));
+    --dialog-btn-radius: 6px;
+    --dialog-primary: #6200ee;
+    --dialog-cancel: #e0e0e0;*/
+}
+
+
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  /*-webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  /*-moz-osx-font-smoothing: grayscale;*/
+}
+
+
+/* Rules for sizing the google icons. */
+.material-icons {
+    vertical-align: middle;
+    margin: 0.5vw;
+}
+
+.material-icons.md-12 {
+    vertical-align: middle;
+    font-size: 0.6rem;
+}
+
+.material-icons.md-18 {
+    font-size: 1rem;
+}
+
+.material-icons.md-24 {
+    font-size: 1.5rem;
+}
+
+.material-icons.md-36 {
+    font-size: 2rem;
+}
+
+.material-icons.md-48 {
+    font-size: 4rem;
+}
+
+/* revised layout */
+
+.layout {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+/* fix rss feed images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+header {
+    /*background-color: var(--geeko-green);
+    background-color: var(--geeko-blue);*/
+    color: white;
+    padding: 2rem 1rem;
+    /*padding: 1rem;*/
+    /*text-align: center;*/
+}
+
+
+.nav {
+    background: var(--geeko-green);
+    padding: 1rem;
+    color: white;
+    flex-shrink: 0;
+    text-align: center;
+}
+
+.btn {
+        margin: 0.1rem;
+}
+
+.welcome {
+    display: flex;
+    align-items: center; /* vertical centering */
+    gap: 1rem; /* spacing between image and text */
+}
+
+.header {
+    background: var(--geeko-blue);
+    /*padding: 1rem;*/
+    color: white;
+    flex-shrink: 0;
+}
+
+
+.footer {
+    background: var(--geeko-green);
+    padding: 1rem;
+    color: white;
+    flex-shrink: 0;
+    text-align: center;
+}
+
+.content {
+    flex: 1;
+    overflow-y: auto;
+    padding: 2rem;
+    /*background-color: light-dark(white,purple);
+    color: light-dark(purple,white);*/
+    background-color: light-dark(var(--light-bg), var(--dark-bg));
+    color: light-dark(var(--light-color), var(--dark-color));
+}
+
+/* header logo */
+.logo {
+    height: 64px;
+    width: auto;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.footer a {
+    color: white;
+    flex-shrink: 0;
+    text-align: center;
+}
+
+.badge {
+    background-color: red;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#theme-toggle {
+    cursor: pointer;
+}

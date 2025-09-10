@@ -1,0 +1,53 @@
+<main class="container">
+    <nav class="tabs">
+        <button class="active" data-tab="tab1">Home</button>
+        <button data-tab="tab2">News</button>
+        <button data-tab="tab3">Release Notes</button>
+    </nav>
+
+    <section id="tab1" class="tab-content active">
+        <h2>About openSUSE</h2>
+        <p>openSUSE is a powerful, stable, and flexible Linux distribution loved by developers and system
+            administrators
+            around the world.</p>
+        <h3>Todays News:</h3>
+        <div class="news2">{{ latest_news }}</div>
+        <h2>Join the openSUSE Community</h2>
+        <p>Connect with other users, developers, and contributors today!</p>
+    </section>
+
+    <section id="tab2" class="tab-content">
+        {% for feed in feeds %}
+            <h1>FEED: {{ feed.title }}</h1>
+        {% endfor %}
+    </section>
+
+    <section id="tab3" class="tab-content">
+        <h2>6C. Dunkles Bock</h2>
+        <p><strong>Overall Impression:</strong> A dark, strong, malty German lager beer that emphasizes the
+            malty-rich and somewhat toasty qualities of continental malts without being sweet in the finish.</p>
+        <p><strong>History:</strong> Originated in the Northern German city of Einbeck, which was a brewing center
+            and popular exporter in the days of the Hanseatic League (14th to 17th century). Recreated in Munich
+            starting in the 17th century. The name “bock” is based on a corruption of the name “Einbeck” in the
+            Bavarian dialect, and was thus only used after the beer came to Munich. “Bock” also means “Ram” in
+            German, and is often used in logos and advertisements.</p>
+    </section>
+
+</main>
+
+<script>
+    const buttons = document.querySelectorAll('.tabs button');
+    const contents = document.querySelectorAll('.tab-content');
+
+    buttons.forEach(button => {
+        button.addEventListener('click', () => {
+            // Remove active classes
+            buttons.forEach(btn => btn.classList.remove('active'));
+            contents.forEach(tab => tab.classList.remove('active'));
+
+            // Add active class to clicked tab and corresponding content
+            button.classList.add('active');
+            document.getElementById(button.dataset.tab).classList.add('active');
+        });
+    });
+</script>

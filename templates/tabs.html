@@ -1,0 +1,51 @@
+
+    <nav class="tabs">
+        <button class="active" data-tab="tab1">Home</button>
+        <button data-tab="tab2">News</button>
+        <button data-tab="tab3">Release Notes</button>
+    </nav>
+
+   <section id="tab1" class="tab-content active">
+        <h2>About openSUSE</h2>
+        <p>openSUSE is a powerful, stable, and flexible Linux distribution loved by developers and system
+            administrators
+            around the world.</p>
+        <h3>Todays News:</h3>
+        <div class="news2">{{ latest_news }}</div>
+        <h2>Join the openSUSE Community</h2>
+        <p>Connect with other users, developers, and contributors today!</p>
+    </section>
+
+    <section id="tab2" class="tab-content" aria-busy="true">
+    </section>
+
+    <section id="tab3" class="tab-content">
+        <!-- news feeds -->
+        {% for feed in feeds %}
+            <h2>{{ feed.title }}</h2>
+            <p>
+            {{ feed.description }}
+            <a href="{{ feed.url }}" target="_blank">(see more)</a>
+            </p>
+
+            <!--<button class="tablink" onclick="showFeed('{{ feed.title }}', this, '{{ tab.color }}')"-->
+        {% endfor %}
+        <!-- end news feeds -->
+    </section>
+
+<script>
+    const buttons = document.querySelectorAll('.tabs button');
+    const contents = document.querySelectorAll('.tab-content');
+
+    buttons.forEach(button => {
+        button.addEventListener('click', () => {
+            // Remove active classes
+            buttons.forEach(btn => btn.classList.remove('active'));
+            contents.forEach(tab => tab.classList.remove('active'));
+
+            // Add active class to clicked tab and corresponding content
+            button.classList.add('active');
+            document.getElementById(button.dataset.tab).classList.add('active');
+        });
+    });
+</script>

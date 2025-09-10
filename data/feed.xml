@@ -1,0 +1,719 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>openSUSE News</title>
+    <link>https://news.opensuse.org</link>
+    <description>Latest news from the openSUSE Project</description>
+    <atom:link href="https://news.opensuse.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <guid>https://news.opensuse.org/2025/04/07/osas-logo-competition/</guid>
+      <title>Logo Call openSUSE.Asia Summit</title>
+      <pubDate>Mon, 07 Apr 2025 09:00:00 +0000</pubDate>
+      <link>https://news.opensuse.org/2025/04/07/osas-logo-competition/</link>
+      <author>admin@opensuse.org (openSUSE Asia Summit India Team)</author>
+      <enclosure url="https://news.opensuse.org/wp-content/uploads/2025/04/logo.png" length="74112" type="image/png" />
+      <description>We are excited to announce the openSUSE.Asia Summit 2025 Logo Competition! A logo is more than just a design—it represents the spirit, identity, and energy of the event. Every year, the summit logo reflects the unique, diverse, and dynamic communities of the host country. This time, the openSUSE.Asia Summit 2025...</description>
+      <content:encoded>&lt;p&gt;We are excited to announce the &lt;strong&gt;&lt;a href=&quot;https://events.opensuse.org/&quot;&gt;openSUSE.Asia Summit&lt;/a&gt; 2025 Logo Competition&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;A logo is more than just a design—it represents the spirit, identity, and energy of the event. Every year, the summit logo reflects the unique, diverse, and dynamic communities of the host country.&lt;/p&gt;
+
+&lt;p&gt;This time, the &lt;strong&gt;openSUSE.Asia Summit 2025&lt;/strong&gt; will be held in &lt;strong&gt;Faridabad, India&lt;/strong&gt;, bringing together open-source enthusiasts, developers, and contributors from across Asia. We invite creative minds to design an outstanding logo for this year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The competition is now open!&lt;/strong&gt; 
+As a token of appreciation, the winning design receives a &lt;strong&gt;special prize&lt;/strong&gt; from the summit committee.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;contest-rules--guidelines&quot;&gt;Contest Rules &amp;amp; Guidelines&lt;/h2&gt;
+
+&lt;h3 id=&quot;licensing&quot;&gt;Licensing&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The logo must be licensed under CC-BY-SA 4.0, allowing the openSUSE community to use it freely without needing to provide attribution each time, as typically required by the license, if the logo is selected.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.opensuse.org/openSUSE:Accepted_licences&quot;&gt;More details on licensing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;originality&quot;&gt;Originality&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The design must be &lt;strong&gt;original&lt;/strong&gt; and must not include any third-party materials.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;design-requirements&quot;&gt;Design Requirements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Formats&lt;/strong&gt;: Submit both monochrome and color versions of the logo.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;File Format&lt;/strong&gt;: The design must be in &lt;strong&gt;SVG format&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Theme&lt;/strong&gt;: The logo should reflect &lt;strong&gt;openSUSE&lt;/strong&gt;, &lt;strong&gt;open-source values&lt;/strong&gt;, and the &lt;strong&gt;diverse Asian community&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;avoid-using&quot;&gt;Avoid Using&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Brand names or trademarks of any kind.&lt;/li&gt;
+  &lt;li&gt;Inappropriate, offensive, or discriminatory imagery.&lt;/li&gt;
+  &lt;li&gt;Religious, political, or nationalist symbols.&lt;/li&gt;
+  &lt;li&gt;Weapons, violence, drugs, or alcohol-related elements.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;branding--guidelines&quot;&gt;Branding &amp;amp; Guidelines&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The logo should adhere to the &lt;a href=&quot;https://en.opensuse.org/File:OpenSUSE_Trademark_Guidelines.pdf&quot;&gt;openSUSE Project Trademark Guidelines&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;You may also refer to &lt;a href=&quot;https://opensuse.github.io/branding-guidelines/&quot;&gt;openSUSE branding guidelines&lt;/a&gt; (optional).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;how-to-submit&quot;&gt;How to Submit&lt;/h2&gt;
+
+&lt;p&gt;Send your design to &lt;strong&gt;opensuseasia-summit@googlegroups.com&lt;/strong&gt; with the following details:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Email Subject:&lt;/strong&gt; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;openSUSE.Asia Summit 2025 Logo Design - [Your Name]&lt;/code&gt; 
+&lt;strong&gt;Attachments:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Vector File&lt;/strong&gt;: The logo in SVG format ONLY (Refer to template in Figure 1).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bitmap File&lt;/strong&gt;: A PNG version (minimum 256x256 pixels).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Design Philosophy&lt;/strong&gt;: A short TXT or PDF document explaining your concept.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;File Size&lt;/strong&gt;: Ensure all files are under 512 KB.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/images/2025-03-21/logo.png&quot; alt=&quot;openSUSE.Asia Summit 2025 Logo&quot; width=&quot;300&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;em&gt;Figure 1. Sample SVG Template for the logo&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The openSUSE.Asia Summit Committee will carefully review all submissions. 
+&lt;strong&gt;Note:&lt;/strong&gt; Final decision will be made by the committee and may not necessarily be the highest-voted design.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Tip: Use &lt;a href=&quot;https://inkscape.org/&quot;&gt;Inkscape&lt;/a&gt;, a free and open-source vector design tool!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;important-dates&quot;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Submission Deadline&lt;/strong&gt;: 10 June 2025&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Winner Announcement&lt;/strong&gt;: 20 June 2025&lt;/li&gt;
+&lt;/ul&gt;
+
+</content:encoded>
+    </item>
+
+    <item>
+      <guid>https://news.opensuse.org/2025/04/07/fariffs-spark-shift-to-os/</guid>
+      <title>Tariffs Spark Shift to Open Source</title>
+      <pubDate>Mon, 07 Apr 2025 08:00:00 +0000</pubDate>
+      <link>https://news.opensuse.org/2025/04/07/fariffs-spark-shift-to-os/</link>
+      <author>admin@opensuse.org (Douglas DeMaio)</author>
+      <enclosure url="https://news.opensuse.org/wp-content/uploads/2024/11/dive.png" length="63548" type="image/png" />
+      <description>This new era of tariffs and retaliatory measures may ripple through the tech sector and accelerate interest in open-source alternatives like openSUSE. Businesses and governments globally are now considering their heavy dependence on proprietary software just as Microsoft ends support for its Windows 10 operating system. These growing uncertainties are...</description>
+      <content:encoded>&lt;p&gt;This new era of tariffs and retaliatory measures may ripple through the tech sector and accelerate interest in open-source alternatives like &lt;a href=&quot;https://get.opensuse.org/&quot;&gt;openSUSE&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Businesses and governments globally are now considering their heavy dependence on proprietary software just as &lt;a href=&quot;https://news.opensuse.org/2024/11/26/transition-from-windows-step-by-step/&quot;&gt;Microsoft ends support for its Windows 10 operating system&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;These growing uncertainties are lending fresh momentum to the &lt;a href=&quot;https://news.opensuse.org/category/upgrade-to-freedom&quot;&gt;Upgrade to Freedom&lt;/a&gt; campaign, which is a grassroots initiative to encourage individuals and institutions to adopt open-source software.&lt;/p&gt;
+
+&lt;p&gt;The timing could not be more critical.&lt;/p&gt;
+
+&lt;p&gt;Some, like geopolitical thinker &lt;a href=&quot;https://en.wikipedia.org/wiki/Fareed_Zakaria&quot;&gt;Fareed Zakaria&lt;/a&gt;, believe the &lt;a href=&quot;https://hbr.org/2023/09/ai-and-the-new-digital-cold-war&quot;&gt;digital cold war&lt;/a&gt; will fracture
+into rival political blocs, but open-source solutions offer clear alternatives.&lt;/p&gt;
+
+&lt;p&gt;These alternatives are fully transparent, backed by global communities, and have proven themselves trustworthy for use in governments, institutions and enterprise environments.&lt;/p&gt;
+
+&lt;p&gt;Installing open-source solutions like &lt;a href=&quot;https://get.opensuse.org/&quot;&gt;openSUSE’s&lt;/a&gt; &lt;a href=&quot;https://get.opensuse.org/leap/&quot;&gt;Leap&lt;/a&gt;, &lt;a href=&quot;https://en.opensuse.org/Portal:Slowroll&quot;&gt;Slowroll&lt;/a&gt;, &lt;a href=&quot;https://get.opensuse.org/tumbleweed/&quot;&gt;Tumbleweed&lt;/a&gt;, &lt;a href=&quot;https://kalpadesktop.org/&quot;&gt;Kalpa&lt;/a&gt;, &lt;a href=&quot;https://aeondesktop.org&quot;&gt;Aeon&lt;/a&gt; or others gives users control of their infrastructure without licensing constraints, opaque code and geopolitical risk.&lt;/p&gt;
+
+&lt;p&gt;Open-source software belongs to everyone, and stands apart as being neutral, transparent and resilient by design.&lt;/p&gt;
+
+&lt;p&gt;This evolving trade dispute will have &lt;a href=&quot;https://news.opensuse.org/2025/03/21/choose-freedom-not-trailware/&quot;&gt;financial implications.&lt;/a&gt; stretching beyond software updates. If a digital services tax or stricter antitrust rules prevail in response to tariffs, access to cloud services, developer tools and even app stores could become more complicated or expensive for people.&lt;/p&gt;
+
+&lt;p&gt;Analysts say these disputes jeopardize operations and sovereignty for those reliant on closed-source platforms. Migrations from Windows to Linux have never been more important.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://commission.europa.eu/about/departments-and-executive-agencies/digital-services/open-source-software-strategy_en&quot;&gt;European Commission sees open-source software&lt;/a&gt; as more than an IT tool. Policy makers are encouraging open-source ecosystems to drive innovation, autonomy and collaboration in a world where global trade is being redrawn.&lt;/p&gt;
+
+&lt;p&gt;This trade dispute highlights something most open-source advocates have known for years: open source is freedom. It’s freedom from monopolies, freedom from arbitrary pricing, and freedom from foreign influence.&lt;/p&gt;
+
+&lt;p&gt;Don’t buy new hardware just to keep up with software you no longer control. Reclaim your independence and build a future not dictated by trade wars or tech monopolies. Install &lt;a href=&quot;https://get.opensuse.org/&quot;&gt;openSUSE&lt;/a&gt;, reduce dependencies and protect your digital future.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt; This is part of a series on &lt;a href=&quot;https://news.opensuse.org/category/upgrade-to-freedom&quot;&gt;Upgrade to Freedom&lt;/a&gt; where we offer reasons to transition from Windows to Linux.&lt;/small&gt;&lt;/p&gt;
+
+&lt;meta name=&quot;openSUSE, Open Source, development, Windows 10 end of support, Linux transition, Upgrade to Freedom campaign, Linux distributions, e-waste reduction, hardware sustainability, Ubuntu, Fedora, AlmaLinux, environmental benefits, secure operating systems, customizable Linux, Joanna Murzyn, KDE Akademy, electronic waste, open source, Linux alternatives, computer longevity, user-friendly Linux, live tutorials, ISO installation, Leap, Tumbleweed, Linux gaming, Linux for developers, EU, Euro&quot; content=&quot;HTML,CSS,XML,JavaScript&quot; /&gt;
+
+</content:encoded>
+    </item>
+
+    <item>
+      <guid>https://news.opensuse.org/2025/04/01/seamless-migration-from-windows/</guid>
+      <title>Seamless migration from Windows</title>
+      <pubDate>Tue, 01 Apr 2025 14:00:00 +0000</pubDate>
+      <link>https://news.opensuse.org/2025/04/01/seamless-migration-from-windows/</link>
+      <author>admin@opensuse.org (Lubos Kocman)</author>
+      <enclosure url="https://news.opensuse.org/wp-content/uploads/2025/04/upgrade-finished.png" length="162828" type="image/png" />
+      <description>Windows 10 End of Life is approaching and Linux distributions show creativity to attract Windows 10 users. openSUSE takes a step further by offering users a seamless migration tool for migration from Windows 10 and 11 to openSUSE Leap and Tumbleweed. The migration tool covers the migration of the NTFS...</description>
+      <content:encoded>&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro&quot;&gt;Windows 10 End of Life&lt;/a&gt; is approaching and Linux distributions show creativity to attract Windows 10 users.&lt;/p&gt;
+
+&lt;p&gt;openSUSE takes a step further by offering users a seamless migration tool for migration from Windows 10 and 11 to openSUSE &lt;a href=&quot;https://get.opensuse.org/leap/&quot;&gt;Leap&lt;/a&gt; and &lt;a href=&quot;https://get.opensuse.org/tumbleweed/&quot;&gt;Tumbleweed&lt;/a&gt;.
+The migration tool covers the migration of the NTFS filesystem to Btrfs, user data, Steam game library, and most of the common applications that coexist on both platforms.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2025/04/upgrade_leap.png&quot; alt=&quot;Alt text&quot; width=&quot;400&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Advanced users will appreciate the command line interface of the &lt;a href=&quot;https://github.com/openSUSE/opensuse-migration-tool&quot;&gt;opensuse-migration-tool&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2025/04/cmdline.png&quot; alt=&quot;Alt text&quot; width=&quot;400&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Users can choose to upgrade their Windows systems to either openSUSE &lt;a href=&quot;https://get.opensuse.org/leap/&quot;&gt;Leap&lt;/a&gt;, or &lt;a href=&quot;https://get.opensuse.org/tumbleweed/&quot;&gt;Tumbleweed&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2025/04/upgrade_leap_2.png&quot; alt=&quot;Alt text&quot; width=&quot;400&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2025/04/upgrade-finished.png&quot; alt=&quot;Alt text&quot; width=&quot;400&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After the migration is done and the system is rebooted users can enjoy the user-friendly interface of openSUSE Leap or Tumbleweed with their favorite apps and much more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/wp-content/uploads/2025/04/migrated.png&quot; alt=&quot;Alt text&quot; width=&quot;400&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I hope you’ve enjoyed reading our 1st of April article that is not really that far from reality, which is just not as seamless as the article presents it 😉.&lt;/p&gt;
+
+&lt;p&gt;Get your new favorite Linux distribution at &lt;a href=&quot;https://get.opensuse.org&quot;&gt;get.opensuse.org&lt;/a&gt; before &lt;a href=&quot;https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro&quot;&gt;Windows 10 End of Life&lt;/a&gt; and stay supported.&lt;/p&gt;
+
+&lt;p&gt;A friendly community awaits you at &lt;a href=&quot;https://forums.opensuse.org&quot;&gt;forums.opensuse.org&lt;/a&gt;.&lt;/p&gt;
+
+</content:encoded>
+    </item>
+
+    <item>
+      <guid>https://news.opensuse.org/2025/04/01/tw-monthly-update-march/</guid>
+      <title>Tumbleweed Monthly Update - March 2025</title>
+      <pubDate>Tue, 01 Apr 2025 11:00:00 +0000</pubDate>
+      <link>https://news.opensuse.org/2025/04/01/tw-monthly-update-march/</link>
+      <author>admin@opensuse.org (Douglas DeMaio)</author>
+      <enclosure url="https://news.opensuse.org/wp-content/uploads/2025/04/gnome.png" length="346589" type="image/png" />
+      <description>Tumbleweed continues to showcase the strength of a well-maintained rolling release as we move through 2025. March delivered several snapshots and several impactful changes across the software stack. This month brought the debut of GNOME 48, delivering modern User Interface polish, performance improvements and new features like digital wellbeing tools...</description>
+      <content:encoded>&lt;p&gt;&lt;a href=&quot;https://get.opensuse.org/tumbleweed/&quot;&gt;Tumbleweed&lt;/a&gt; continues to showcase the strength of a well-maintained &lt;a href=&quot;https://en.opensuse.org/Portal:Tumbleweed&quot;&gt;rolling release&lt;/a&gt; as we move through 2025. March delivered several snapshots and several impactful changes across the software stack.&lt;/p&gt;
+
+&lt;p&gt;This month brought the debut of &lt;a href=&quot;https://release.gnome.org/48/&quot;&gt;GNOME 48&lt;/a&gt;, delivering modern User Interface polish, performance improvements and new features like digital wellbeing tools and HDR support. On the &lt;a href=&quot;https://kde.org/&quot;&gt;KDE&lt;/a&gt; side, &lt;a href=&quot;https://kde.org/announcements/plasma/6/6.3.3/&quot;&gt;Plasma 6.3.3&lt;/a&gt; refined fractional scaling, display handling and usability. &lt;a href=&quot;https://www.mesa3d.org/&quot;&gt;Mesa 25.0.1&lt;/a&gt; introduced &lt;strong&gt;ray tracing support for Intel Arc GPUs&lt;/strong&gt; and &lt;a href=&quot;https://www.gnu.org/software/emacs/&quot;&gt;Emacs 30.1&lt;/a&gt; enhanced org-protocol handling, security, and completion features. Other packages updated were &lt;a href=&quot;https://pipewire.org/&quot;&gt;PipeWire 1.4.1&lt;/a&gt;, &lt;a href=&quot;https://libvirt.org&quot;&gt;libvirt 11.1.0&lt;/a&gt;, &lt;a href=&quot;https://gstreamer.freedesktop.org/&quot;&gt;GStreamer 1.26.0&lt;/a&gt;, &lt;a href=&quot;https://www.php.net/&quot;&gt;PHP 8.3.19&lt;/a&gt; and more. Tumbleweed now includes &lt;a href=&quot;https://news.opensuse.org/2025/03/27/zypper-adds-experimental-parallel-downloads/&quot;&gt;experimental support for parallel package downloads&lt;/a&gt; and a new media backend that was introduced with &lt;a href=&quot;https://github.com/openSUSE/zypper&quot;&gt;zypper&lt;/a&gt; 1.14.87 and &lt;a href=&quot;https://github.com/openSUSE/libzypp&quot;&gt;libzypp&lt;/a&gt; 17.36.4; this offers a major speed boost for package management as it cuts package fetch times by more than half.&lt;/p&gt;
+
+&lt;p&gt;With these updates, rolling release users can enjoy an updated Linux experience that is well tested with continual integration of upstream innovations.&lt;/p&gt;
+
+&lt;p&gt;As always, be sure to roll back using &lt;a href=&quot;https://github.com/openSUSE/snapper&quot;&gt;snapper&lt;/a&gt; if any issues arise.&lt;/p&gt;
+
+&lt;p&gt;Happy updating and tumble on!&lt;/p&gt;
+
+&lt;p&gt;For more details on the change logs for the month, visit the &lt;a href=&quot;https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/&quot;&gt;openSUSE Factory mailing list&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;new-features-and-enhancements&quot;&gt;New Features and Enhancements&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://release.gnome.org/48/&quot;&gt;GNOME 48&lt;/a&gt;&lt;/strong&gt;: This release brings notification stacking to reduce clutter, and delivers major performance gains, including dynamic triple buffering and faster file browsing in Files. The new image viewer adds editing tools like crop and rotate, while support for RAW formats expands functionality. The release debuts new fonts — Adwaita Sans and Mono — enhancing legibility and language support. Digital Wellbeing tools now track screen time, enforce usage limits, and provide break reminders. Battery lifespan is protected with a new 80 percent charging cap option for supported hardware. A minimalist Audio Player app joins the core apps, focusing on simple playback with waveform views. HDR support makes its system-level debut, and Text Editor receives a cleaner interface with better formatting controls. Additional features include global shortcuts for apps, improved window placement, and expanded keyboard shortcut support. Updates to Contacts, Settings, Calendar, Maps, Web, and Orca improve accessibility, UX, and performance across the desktop.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/harfbuzz/harfbuzz&quot;&gt;harfbuzz&lt;/a&gt; 11&lt;/strong&gt;: This new major version introduces new font-function integrations for CoreText, DirectWrite, and the Rust-based Skrifa library, accessible via the new &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hb_font_set_funcs_using()&lt;/code&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/API&quot;&gt;Application Programming Interfaces&lt;/a&gt;. Additional APIs allow loading font-faces directly from files or blobs for FreeType, CoreText, and DirectWrite backends. The DirectWrite shaper now fully supports font variations and user features, and its API is no longer marked experimental.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.gnu.org/software/emacs/&quot;&gt;emacs&lt;/a&gt; 30.1&lt;/strong&gt;: This major release introduces several enhancements, including improved org-protocol handling on GNU/Linux, native code execution for the default process filter, and better input handling with consistent mouse wheel events. It tightens network security by warning about weak crypto standards and ensures HTTP requests don’t expose user emails. Support for Tree-Sitter submodes was added, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;icomplete-in-buffer&lt;/code&gt; improvements enhance completion behavior. The GTK xwidgets build is disabled due to a &lt;a href=&quot;https://webkitgtk.org/&quot;&gt;webkit2gtk&lt;/a&gt; regression.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.mesa3d.org/&quot;&gt;Mesa&lt;/a&gt; 25.0.1 and 25.0.2&lt;/strong&gt;: The 25.0.1 version enables ray tracing support for Intel Arc GPUs &lt;a href=&quot;https://bugzilla.opensuse.org/show_bug.cgi?id=1238732&quot;&gt;(boo#1238732)&lt;/a&gt; and improves build configuration by switching to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;%gcc_version&lt;/code&gt; instead of hardcoded &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CXX&lt;/code&gt;. A workaround was added to explicitly set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CXX=g++-14&lt;/code&gt; to resolve compiler detection errors during build. Also includes fixes for building on Tumbleweed and ensures GCC 13 is used for Leap/SLES 15 builds &lt;a href=&quot;https://bugzilla.opensuse.org/show_bug.cgi?id=1238713&quot;&gt;(bsc#1238713)&lt;/a&gt;. The 25.0.2 version maintains OpenGL 4.6 and Vulkan 1.4 API support, though actual reported versions vary by driver. This update fixes VRAM detection problems, flickering in &lt;a href=&quot;https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game)&quot;&gt;Resident Evil 2&lt;/a&gt;, a Vulkan issue with &lt;a href=&quot;https://en.wikipedia.org/wiki/Doom_(2016_video_game)&quot;&gt;DOOM 2016&lt;/a&gt; on &lt;a href=&quot;https://www.amd.com/en&quot;&gt;AMD&lt;/a&gt; 780M, a segmentation fault in AMD VDPAU deinterlacing, and crashes on Raspberry Pi 5 with v3dv.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://kde.org/announcements/plasma/6/6.3.3/&quot;&gt;KDE Plasma 6.3.3&lt;/a&gt;&lt;/strong&gt;: &lt;a href=&quot;https://invent.kde.org/plasma/kwin&quot;&gt;KWin&lt;/a&gt;  resolves several issues, including tiling, stacking, and modifier state bugs, and adds better support for hardware with complex display setups. Discover improves changelog visibility and flattens case-sensitive sorting for offline updates. Breeze adjusts menu bar styling and resolves Qt6 MinGW build regressions. Plasma Desktop patches task manager tooltips and improves keyboard layout handling, while Plasma Workspace improves system tray tab focus and resolves calendar navigation bugs. Powerdevil enhances Dell laptop charging support and warns users of power settings that increase energy use. KPipewire, KScreenLocker, and Spectacle all receive targeted fixes, and QQC2 Breeze Style syncs its visual elements with the desktop style for consistency.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://kde.org/announcements/changelogs/gear/24.12.2/&quot;&gt;KDE Gear 24.12.3&lt;/a&gt;&lt;/strong&gt;: KDE’s &lt;a href=&quot;https://apps.kde.org/dolphin/&quot;&gt;Dolphin&lt;/a&gt; resolves a crash when opening new tabs with search and prevents view settings loss. Podcast app &lt;a href=&quot;https://apps.kde.org/kasts/&quot;&gt;Kasts&lt;/a&gt; addresses playback and sorting issues, while &lt;a href=&quot;https://kate-editor.org/&quot;&gt;Kate&lt;/a&gt; improves HUD behavior, session handling, and editor font consistency. &lt;a href=&quot;https://kdenlive.org/en/&quot;&gt;Kdenlive&lt;/a&gt; eliminates multiple crash scenarios related to audio playback and clip transitions.  &lt;a href=&quot;https://okular.kde.org/&quot;&gt;Okular&lt;/a&gt; refines digital signature handling and fixes display bugs. &lt;a href=&quot;https://konsole.kde.org/&quot;&gt;Konsole&lt;/a&gt; patches escape sequence behavior, avoids infinite loops, and improves session settings. Konqueror restores proper translation extraction for UI elements. Kitinerary expands extractor support with new scripts for Eventyay, SBB, and Ghotel reservations. Tokodon and PlasmaTube improve UI consistency and media playback, particularly for PeerTube and Akkoma. Multiple apps, including Umbrello, Cantor, and Calligra, gain compatibility with CMake 4, ensuring smoother builds.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/SELinuxProject&quot;&gt;selinux-policy&lt;/a&gt; 20250305&lt;/strong&gt;: This update brings fixes like labeling &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/var/log/php-fpm.log&lt;/code&gt; as &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;httpd_log_t&lt;/code&gt; and allowing &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;systemd-networkd&lt;/code&gt; to read/write memfd objects in tmpfs. Support was added for SSH keygen to connect via vsockets and for Plymouth debug logs. Apache2 binaries are now labeled correctly, and the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;kmscon&lt;/code&gt; module is enabled. Packaging improvements remove bashisms from scriptlets, fix a broken variable reference, improve the rpmlintrc, and reduce duplicates using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fdupes&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://freedesktop.org/wiki/Software/systemd/&quot;&gt;systemd&lt;/a&gt; 257.4&lt;/strong&gt;: Notable changes include better handling of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;posix.fork()&lt;/code&gt; in triggers (bsc#1238566), updates to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;systemctl edit&lt;/code&gt; to handle missing unit masking errors more gracefully, and improved verity settings for MountImages. Shell completions now include &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;systemd-creds&lt;/code&gt;, and additional test coverage was added for verity and extension features. Journalctl respects &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--quiet&lt;/code&gt; with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--setup-keys&lt;/code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;logind&lt;/code&gt; now starts system-wide idle tracking at initialization. The update also fixes some man page typos and improves compatibility with openSUSE in mkosi builds.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.php.net/&quot;&gt;php8&lt;/a&gt; 8.3.19&lt;/strong&gt;: This update fixes memory leaks in BCMath, GD, Phar, and zlib, as well as crashes and unexpected behavior in the core engine, FFI, and Opcache JIT compilation. Several CVEs were resolved in the shutdown sequence and enhancements were also made to FPM path handling.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.gimp.org/&quot;&gt;gimp&lt;/a&gt; 3.0.2&lt;/strong&gt;: One of the first minor updates from the 3.0 version resolves crashes related to brush selection and font handling in the text tool and improves UI consistency with adjustments to headerbar colors, spacing, and dark theme panel separation. Tools and plug-ins received usability improvements, including reordered line art detection options, new toggle icons, and fixes for metadata editor and gradient flare crashes. The build system includes packaging cleanups and now requires &lt;a href=&quot;https://www.gegl.org/&quot;&gt;GEGL&lt;/a&gt; 0.4.58.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/tianocore/tianocore.github.io/wiki/OVMF&quot;&gt;ovmf&lt;/a&gt; 202502&lt;/strong&gt;: A quarter’s worth of updates adds X64 support for SRAT and MADT table generation, introduces dynamic stack cookie support across multiple architectures, and integrates RNG PPI and PEI libraries. It also updates to &lt;a href=&quot;https://www.openssl.org/&quot;&gt;OpenSSL&lt;/a&gt; 3.4.x and enhances CI tooling. The release also resolves bugs such as image relocation overflows, QEMU random number generation support, and uninitialized variable warnings in various components.&lt;/p&gt;
+
+&lt;h3 id=&quot;key-package-updates&quot;&gt;Key Package Updates&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.kernel.org/&quot;&gt;Kernel Source&lt;/a&gt; 6.13.6 - 6.13.8&lt;/strong&gt;: The 6.13.8 release re-enables &lt;a href=&quot;https://openvpn.net/&quot;&gt;OpenVPN&lt;/a&gt; support after fixing related issues. Notable updates involve improvements and bug fixes across subsystems such as memory management, networking, RDMA, Bluetooth, Wi-Fi, DRM, and various architecture-specific components. The 6.13.7 kernel introduces &lt;a href=&quot;https://openvpn.net/&quot;&gt;OVPN&lt;/a&gt; Data Channel Offload, including multi-peer support, TCP transport, key and peer management via netlink and integration with ethtool. Additional updates address memory leaks, use-after-free vulnerabilities in ksmbd, hardware compatibility for &lt;a href=&quot;https://www.dell.com&quot;&gt;Dell&lt;/a&gt; and &lt;a href=&quot;https://www.lenovo.com&quot;&gt;Lenovo&lt;/a&gt; systems in &lt;a href=&quot;https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture&quot;&gt;Advanced Linux Sound Architecture&lt;/a&gt;, and multiple improvements across RDMA, KVM for LoongArch, Btrfs, and DRM subsystems.  The 6.13.6 release includes numerous fixes and enhancements across subsystems such as RDMA, networking, SCSI, NFS, and Bluetooth. Key updates address memory and race condition bugs in RDMA/mlx5, correct behavior in NFS O_DIRECT writes, and improve error handling across various drivers. It also includes architecture-specific improvements for x86 and &lt;a href=&quot;https://www.arm.com/&quot;&gt;arm&lt;/a&gt;, and adds forgotten &lt;a href=&quot;https://www.amd.com&quot;&gt;AMD&lt;/a&gt; models to microcode SHA checks. The update resolves several bugs noted in &lt;a href=&quot;https://bugzilla.opensuse.org/show_bug.cgi?id=1012628&quot;&gt;bsc#1012628&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/openSUSE/sdbootutil&quot;&gt;sdbootutil&lt;/a&gt;&lt;/strong&gt;: This update includes several fixes and enhancements. Boot entry measurement is now supported for grub2-bls, and set-default-snapshot is made consistent. It now validates the ESP mount point and ensures correct behavior when called from snapper. Additional improvements include quieting OpenSSL output, storing passwords in the cryptenroll keyring, updated help entries, typo fixes, and stricter input validation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/git&quot;&gt;git&lt;/a&gt; 2.49.0&lt;/strong&gt;: This version introduces support for shallow clones from arbitrary commits and adds &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git backfill&lt;/code&gt; to bulk-fetch missing blobs in blobless clones. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git gc&lt;/code&gt; gains a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--expire-to&lt;/code&gt; option, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git repack&lt;/code&gt; can now use an alternative path-hash for better delta selection. The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[help] autocorrect = 1&lt;/code&gt; setting now runs typo corrections immediately, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git rev-list --missing=print-info&lt;/code&gt; provides more detail on missing objects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://pipewire.org/&quot;&gt;PipeWire&lt;/a&gt; 1.4.1&lt;/strong&gt;: Fixes were made for device disappearance issues caused by incorrect SplitPCM channel specs and restores MIDI functionality on older kernels lacking UMP support. It resolves crashes in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;audioconvert&lt;/code&gt; due to resampler misconfigurations and adds improved error reporting for UCM config issues. Bluetooth stability is improved with a fix for crashes during incoming calls.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/linux-nvme/nvme-cli&quot;&gt;nvme-cli&lt;/a&gt; 2.12&lt;/strong&gt;: This user space tooling introduces new commands like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reachability-associations-log&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;host-discovery-log&lt;/code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rotational-media-info-log&lt;/code&gt;, enhancing NVMe 2.1 log support and diagnostics. The release improves error handling, completion scripts, and JSON outputs, while also updating documentation and plugins, including OCP 2.6 telemetry. Several bugs and build issues were fixed, and &lt;a href=&quot;https://github.com/linux-nvme/libnvme&quot;&gt;libnvme&lt;/a&gt; dependencies were updated.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://gitlab.gnome.org/GNOME/evolution/-/wikis/home&quot;&gt;Evolution&lt;/a&gt; 3.56.0&lt;/strong&gt;: This personal info management application introduces numerous bug fixes and UI improvements across Mail, Calendar, Tasks, and Contacts. Highlights include corrected time zone comparisons in Tasks, improved memory handling, better icon handling, a fix for crashes on quit, and enhancements to Unified Inbox behavior. The update replaces legacy GTK widgets with modern equivalents like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;GtkGrid&lt;/code&gt;, removes deprecated &lt;a href=&quot;https://en.wikipedia.org/wiki/API&quot;&gt;APIs&lt;/a&gt; (e.g., &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;GTimeVal&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;GtkAlignment&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;GtkArrow&lt;/code&gt;), and now requires &lt;a href=&quot;https://gitlab.gnome.org/GNOME/glib&quot;&gt;glib&lt;/a&gt; 2.70. Multiple translation updates and interface refinements round out the release.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.gtk.org/&quot;&gt;GTK3&lt;/a&gt; 3.24.49 and &lt;a href=&quot;https://www.gtk.org/&quot;&gt;GTK4&lt;/a&gt; 4.18.2&lt;/strong&gt;: The 3.24.49 version fixes crashes related to IM context and drag-and-drop with GtkPlug/GtkSocket. On &lt;a href=&quot;https://wayland.freedesktop.org/&quot;&gt;Wayland&lt;/a&gt;, it improves cursor handling and resolves menu malfunctions caused by bad crossing events. With 4.18.2, there were enhancements and fixes for popovers, clipboard leaks, Wayland drag surfaces, and X11 scaling behavior. New features include Wayland cursor-shape protocol support, OpenGL backend for Android, and improvements to font rendering, accessibility, and inspector tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://gstreamer.freedesktop.org/&quot;&gt;GStreamer&lt;/a&gt; 1.26.0&lt;/strong&gt;: Major features including support for H.266/VVC and LCEVC video codecs, closed caption enhancements and new HLS/DASH sinks. It introduces elements for &lt;a href=&quot;https://aws.amazon.com/&quot;&gt;AWS&lt;/a&gt; and Speechmatics transcription, new Vulkan and CUDA improvements, and richer RTSP, RTP, and WebRTC capabilities. There’s expanded support for Matroska, MPEG-TS, and ISO MP4 formats, plus tools for real-time analytics and visualization. Notable changes include new QUIC-based elements, advanced A/V encoder/decoder support, and GTK, Qt, and Direct3D12 backend upgrades.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://libvirt.org&quot;&gt;libvirt&lt;/a&gt; 11.1.0&lt;/strong&gt;: The ‘fs’ storage backend was de-modularized and is now built-in. Support for &lt;a href=&quot;https://www.virtualbox.org/&quot;&gt;VirtualBox&lt;/a&gt; 6.1 APIs were dropped due to upstream end of life. New features include support for ccwgroup-based qeth devices on mainframes, event handling for cloud-hypervisor VMs, virtio-mem memory devices for s390 guests and passt as a backend for vhostuser interfaces. The &lt;a href=&quot;https://www.qemu.org/&quot;&gt;QEMU&lt;/a&gt;  driver now retains I/O error messages for later retrieval via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;virDomainGetMessages()&lt;/code&gt;. Bug fixes include better domain status checking in ssh-proxy, AppArmor profile updates for SGX memory, and a crash fix when starting domains on hosts with unknown CPU models.&lt;/p&gt;
+
+&lt;h3 id=&quot;bug-fixes-and-security-updates&quot;&gt;Bug Fixes and Security Updates&lt;/h3&gt;
+
+&lt;p&gt;Several key security vulnerabilities were addressed this month. &lt;a href=&quot;https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures&quot;&gt;Common Vulnerabilities and Exposures&lt;/a&gt; this month are:&lt;/p&gt;
+
+&lt;h4 id=&quot;security-updates&quot;&gt;Security Updates&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://software.opensuse.org/package/apache2-mod_php8&quot;&gt;apache2-mod_php8&lt;/a&gt; 8.3.19&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2024-11235.html&quot;&gt;CVE-2024-11235&lt;/a&gt;&lt;/strong&gt;: This vulnerability identifier has been reserved for future disclosure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-1219.html&quot;&gt;CVE-2025-1219&lt;/a&gt;&lt;/strong&gt;: This vulnerability identifier has been reserved for future disclosure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-1736.html&quot;&gt;CVE-2025-1736&lt;/a&gt;&lt;/strong&gt;: This vulnerability identifier has been reserved for future disclosure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-1861.html&quot;&gt;CVE-2025-1861&lt;/a&gt;&lt;/strong&gt;: This vulnerability identifier has been reserved for future disclosure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-1734.html&quot;&gt;CVE-2025-1734&lt;/a&gt;&lt;/strong&gt;: This vulnerability identifier has been reserved for future disclosure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-1217.html&quot;&gt;CVE-2025-1217&lt;/a&gt;&lt;/strong&gt;: This vulnerability identifier has been reserved for future disclosure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://gitlab.gnome.org/GNOME/libxslt&quot;&gt;libxslt&lt;/a&gt;&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-24855.html&quot;&gt;CVE-2025-24855&lt;/a&gt;&lt;/strong&gt;: Fixed a use-after-free in libxslt during nested XPath evaluations, leading to potential crashes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2024-55549.html&quot;&gt;CVE-2024-55549&lt;/a&gt;&lt;/strong&gt;: Fixed a use-after-free in libxslt’s namespace handling related to result prefix exclusions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.php.net/&quot;&gt;php8&lt;/a&gt; 8.3.19&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2024-11235.html&quot;&gt;CVE-2024-11235&lt;/a&gt;&lt;/strong&gt;: This vulnerability identifier has been reserved for future disclosure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-1219.html&quot;&gt;CVE-2025-1219&lt;/a&gt;&lt;/strong&gt;: This vulnerability identifier has been reserved for future disclosure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-1736.html&quot;&gt;CVE-2025-1736&lt;/a&gt;&lt;/strong&gt;: This vulnerability identifier has been reserved for future disclosure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-1861.html&quot;&gt;CVE-2025-1861&lt;/a&gt;&lt;/strong&gt;: This vulnerability identifier has been reserved for future disclosure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-1734.html&quot;&gt;CVE-2025-1734&lt;/a&gt;&lt;/strong&gt;: This vulnerability identifier has been reserved for future disclosure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-1217.html&quot;&gt;CVE-2025-1217&lt;/a&gt;&lt;/strong&gt;: This vulnerability identifier has been reserved for future disclosure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://webkitgtk.org/&quot;&gt;webkit2gtk3&lt;/a&gt;&lt;/strong&gt;::&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-24201.html&quot;&gt;CVE-2025-24201&lt;/a&gt;&lt;/strong&gt;: An out-of-bounds write issue was addressed with improved checks to prevent unauthorized actions. Maliciously crafted web content may be able to break out of the Web Content sandbox.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.libarchive.org/&quot;&gt;libarchive&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-1632.html&quot;&gt;CVE-2025-1632&lt;/a&gt;&lt;/strong&gt;: Fixed a null pointer dereference in libarchive’s &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bsdunzip.c&lt;/code&gt;, which could lead to local crashes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-25724.html&quot;&gt;CVE-2025-25724&lt;/a&gt;&lt;/strong&gt;: Fixed unchecked &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;strftime&lt;/code&gt; return in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;list_item_verbose&lt;/code&gt;, which could cause denial of service with crafted TAR files.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.port389.org&quot;&gt;389-ds&lt;/a&gt; 3.1.2~git+&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-2487.html&quot;&gt;CVE-2025-2487&lt;/a&gt;&lt;/strong&gt;: Fixed a NULL pointer dereference in 389 Directory Server during MODDN operations, potentially causing denial of service.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://zapping.sourceforge.net/ZVBI/index.html&quot;&gt;zvbi&lt;/a&gt; 0.2.44&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-2173.html&quot;&gt;CVE-2025-2173&lt;/a&gt;&lt;/strong&gt;: Fixed an uninitialized pointer in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vbi_strndup_iconv_ucs2&lt;/code&gt;, which could lead to remote crashes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-2174.html&quot;&gt;CVE-2025-2174&lt;/a&gt;&lt;/strong&gt;: Fixed an integer overflow in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vbi_strndup_iconv_ucs2&lt;/code&gt;, potentially leading to remote exploitation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-2175.html&quot;&gt;CVE-2025-2175&lt;/a&gt;&lt;/strong&gt;: Fixed an integer overflow in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_vbi_strndup_iconv&lt;/code&gt;, which could be exploited remotely.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-2176.html&quot;&gt;CVE-2025-2176&lt;/a&gt;&lt;/strong&gt;: Fixed an integer overflow in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vbi_capture_sim_load_caption&lt;/code&gt;, potentially leading to remote exploitation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-2177.html&quot;&gt;CVE-2025-2177&lt;/a&gt;&lt;/strong&gt;: Fixed an integer overflow in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vbi_search_new&lt;/code&gt;, which could be exploited remotely.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://w1.fi/wpa_supplicant/&quot;&gt;wpa_supplicant&lt;/a&gt;&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.suse.com/security/cve/CVE-2025-24912.html&quot;&gt;CVE-2025-24912&lt;/a&gt;&lt;/strong&gt;: Fixed improper handling of crafted RADIUS packets in hostapd, which could cause authentication failures.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Users are advised to update to the latest versions to mitigate these vulnerabilities.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;March 2025 highlighted what makes Tumbleweed a standout rolling release: fast access to the latest technologies, paired with the stability of rigorous automated testing. From introducing GNOME 48’s digital wellbeing tools and HDR support, KDE Plasma 6.3.3’s usability improvements, to delivering ray tracing support for Intel Arc GPUs with Mesa 25, this month brought substantial upgrades for users across desktop and hardware stacks.&lt;/p&gt;
+
+&lt;p&gt;The addition of &lt;a href=&quot;https://news.opensuse.org/2025/03/27/zypper-adds-experimental-parallel-downloads/&quot;&gt;parallel package downloads and media backend&lt;/a&gt; enhancements in &lt;a href=&quot;https://github.com/openSUSE/zypper&quot;&gt;zypper&lt;/a&gt; marks a significant step forward for performance and user experience.&lt;/p&gt;
+
+&lt;h3 id=&quot;slowroll-arrivals&quot;&gt;Slowroll Arrivals&lt;/h3&gt;
+
+&lt;p&gt;Please note that these updates also apply to &lt;a href=&quot;https://en.opensuse.org/openSUSE:Slowroll&quot;&gt;Slowroll&lt;/a&gt; and arrive between an average of 5 to 10 days after being released in Tumbleweed snapshot. This monthly approach has been consistent for many months, ensuring stability and timely enhancements for users.&lt;/p&gt;
+
+&lt;h3 id=&quot;contributing-to-opensuse-tumbleweed&quot;&gt;Contributing to openSUSE Tumbleweed&lt;/h3&gt;
+
+&lt;p&gt;Stay updated with the latest snapshots by subscribing to the openSUSE Factory mailing list.
+For those Tumbleweed users who want to contribute or want to engage with detailed technological discussions, subscribe to the &lt;a href=&quot;https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/&quot;&gt;openSUSE Factory mailing list &lt;/a&gt;. The openSUSE team encourages users to continue participating through bug reports, feature suggestions and discussions.&lt;/p&gt;
+
+&lt;p&gt;Your contributions and feedback make openSUSE Tumbleweed better with every update. Whether reporting bugs, suggesting features, or participating in community discussions, your involvement is highly valued.&lt;/p&gt;
+
+&lt;meta name=&quot;keywords&quot; content=&quot;openSUSE, Tumbleweed, Linux, rolling release, GNOME, KDE Plasma, KDE Gear, Mesa, ray tracing, Intel Arc, Emacs, PipeWire, libvirt, GStreamer, PHP, kernel, selinux-policy, systemd, zypper, libzypp, parallel downloads, media backend, GTK, Kdenlive, Dolphin, Qt6, Wayland, NVMe CLI, Evolution, Git, gaming, sysadmin, developers, open source, security updates, CVE, firewall, KDE Frameworks, Breeze, snapper, sdbootutil, libarchive, libxslt, webkit2gtk, audio, HDR, gstreamer, cloud-hypervisor, virtualization, rpm, CI/CD, Distrobox, openSUSE Aeon, openSUSE Kalpa, Slowroll, Leap, kernel-source, firmware, zypper dup, dell, lenovo&quot; /&gt;
+
+</content:encoded>
+    </item>
+
+    <item>
+      <guid>https://news.opensuse.org/2025/03/31/osc-visa-info/</guid>
+      <title>Traveling to oSC25? Important Information About Visas</title>
+      <pubDate>Mon, 31 Mar 2025 16:00:00 +0000</pubDate>
+      <link>https://news.opensuse.org/2025/03/31/osc-visa-info/</link>
+      <author>admin@opensuse.org (Douglas DeMaio)</author>
+      <enclosure url="https://news.opensuse.org/wp-content/uploads/2025/03/osc.png" length="35575" type="image/png" />
+      <description>If you are planning to attend the openSUSE Conference 2025 2025 from June 26 – 28, there are important visa requirements you should be aware of. If you are not a citizen of a Schengen country, you should check the visa requirements and exemptions for entry into Germany. Some participants...</description>
+      <content:encoded>&lt;p&gt;If you are planning to attend the &lt;a href=&quot;https://events.opensuse.org&quot;&gt;openSUSE Conference 2025&lt;/a&gt; 2025 from June 26 – 28, there are important visa requirements you should be aware of.&lt;/p&gt;
+
+&lt;p&gt;If you are not a citizen of a Schengen country, you should check the visa requirements and exemptions for entry into Germany. Some participants may also need a formal invitation letter explaining the nature of the visit. An alphabetical list of countries requiring an invitation letter is available on the &lt;a href=&quot;https://www.auswaertiges-amt.de/en/visa-service/&quot;&gt;Federal Foreign Office website&lt;/a&gt;. If you require such a letter, please email &lt;a href=&quot;mailto:ddemaio@opensuse.org&quot;&gt;ddemaio@opensuse.org&lt;/a&gt; as soon as possible.&lt;/p&gt;
+
+&lt;p&gt;The Travel Support Program does not cover the cost of obtaining a visa. Attendees are responsible for any visa-related expenses.&lt;/p&gt;
+
+&lt;p&gt;The conference is scheduled to take place in Nuremberg, Germany.&lt;/p&gt;
+
+&lt;p&gt;The call for presentations is still open. Consider submitting a talk for the conference before April 30. People can submit talks based on the following length and topics:&lt;/p&gt;
+
+&lt;h3 id=&quot;presentations-can-be-submitted-for-the-following-length-of-time&quot;&gt;Presentations can be submitted for the following length of time:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lightning Talk (10 mins)&lt;/li&gt;
+  &lt;li&gt;Short Talk (30 mins)&lt;/li&gt;
+  &lt;li&gt;Virtual Talk (30 mins)&lt;/li&gt;
+  &lt;li&gt;Long Talk (45 mins)&lt;/li&gt;
+  &lt;li&gt;Workshop (1 hour)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-following-tracks-are-listed-for-the-conference&quot;&gt;The following tracks are listed for the conference:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Cloud and Containers&lt;/li&gt;
+  &lt;li&gt;Community&lt;/li&gt;
+  &lt;li&gt;Embedded Systems and Edge Computing&lt;/li&gt;
+  &lt;li&gt;New Technologies&lt;/li&gt;
+  &lt;li&gt;Open Source&lt;/li&gt;
+  &lt;li&gt;openSUSE&lt;/li&gt;
+  &lt;li&gt;Open Source for Business: Beyond Code into Sustainability Track&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Volunteers who would like to help the with the organization of the conference are encouraged to email &lt;a href=&quot;mailto:ddemaio@opensuse.org&quot;&gt;ddemaio@opensuse.org&lt;/a&gt; or attend a weekly &lt;a href=&quot;https://calendar.opensuse.org/&quot;&gt;community meetings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Conferences need sponsors to support community driven events to keep events free and open to new contributing members. Companies can find &lt;a href=&quot;https://en.opensuse.org/images/9/94/OSC25prospectus.pdf&quot;&gt;sponsorship information&lt;/a&gt; or &lt;a href=&quot;https://geekos.org/sponsorship/&quot;&gt;donate to the Geeko Foundation&lt;/a&gt; to assist with funds that will go toward the conference.&lt;/p&gt;
+
+&lt;meta name=&quot;openSUSE, board, community, conference, event, sponsors&quot; content=&quot;HTML,CSS,XML,JavaScript&quot; /&gt;
+
+</content:encoded>
+    </item>
+
+    <item>
+      <guid>https://news.opensuse.org/2025/03/27/zypper-adds-experimental-parallel-downloads/</guid>
+      <title>Zypper Adds Experimental Parallel Downloads</title>
+      <pubDate>Thu, 27 Mar 2025 08:00:00 +0000</pubDate>
+      <link>https://news.opensuse.org/2025/03/27/zypper-adds-experimental-parallel-downloads/</link>
+      <author>admin@opensuse.org (Douglas DeMaio)</author>
+      <enclosure url="https://news.opensuse.org/wp-content/uploads/2025/03/zypper.png" length="41893" type="image/png" />
+      <description>A new zypper experimental media backend and support for parallel package downloads have been introduced with the release of libzypp version 17.36.4 and zypper version 1.14.87. These enhancements, according to an email on the factory mailing list, improve the performance of package management by reducing the time required to fetch...</description>
+      <content:encoded>&lt;p&gt;A new &lt;a href=&quot;https://en.opensuse.org/Portal:Zypper&quot;&gt;zypper&lt;/a&gt; experimental media backend and support for parallel package downloads have been introduced with the release of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;libzypp&lt;/code&gt; version 17.36.4 and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;zypper&lt;/code&gt; version 1.14.87.&lt;/p&gt;
+
+&lt;p&gt;These enhancements, according to an &lt;a href=&quot;https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/LOCZIG43MFJSTUIQ3VH2CRSYRCBNR4O7/&quot;&gt;email on the factory mailing list&lt;/a&gt;, improve the performance of package management by reducing the time required to fetch packages and metadata.&lt;/p&gt;
+
+&lt;p&gt;The update provides two main features: an ability to fetch packages using concurrent connections, and a simplified media backend that improves connection reuse and metadata handling. Both features are currently in an experimental phase and must be manually enabled.&lt;/p&gt;
+
+&lt;p&gt;Before the feature is officially enabled by default, parallel package downloading can be enabled by setting an environment variable before executing a zypper operation. This allows multiple packages to be downloaded simultaneously, improving overall speed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To Enable parallel downloads&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;env &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;ZYPP_PCK_PRELOAD&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;1 zypper dup
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The number of concurrent downloads can be configured in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;zypp.conf&lt;/code&gt; file using the following directive:&lt;/p&gt;
+
+&lt;div class=&quot;language-ini highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;py&quot;&gt;download.max_concurrent_connections&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;5&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The default is 5. However, higher values may yield better performance depending on system resources and network conditions.&lt;/p&gt;
+
+&lt;p&gt;The new media backend can be enabled with a separate environment variable. The backend eliminates overhead by avoiding metalink fetching and multi-server file splitting. It is optimized for better connection reuse during metadata fetches.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To enable the new media backend&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;env &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;ZYPP_CURL2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;1 zypper ref
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;While these two features are separate, they are most effective when used together. Using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;metalink=&lt;/code&gt; URLs in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.repo&lt;/code&gt; files can further improve mirror performance. However, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;baseurl=&lt;/code&gt; remains the preferred setting for production systems due to its trusted key behavior.&lt;/p&gt;
+
+&lt;p&gt;The following versions are required to use the new features:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;libzypp&lt;/code&gt; version 17.36.4 or newer&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;zypper&lt;/code&gt; version 1.14.87 or newer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are available in &lt;a href=&quot;https://get.opensuse.org/tumbleweed/&quot;&gt;Tumbleweed &lt;/a&gt; and &lt;a href=&quot;https://en.opensuse.org/Portal:Slowroll&quot;&gt;Slowroll&lt;/a&gt;. Users can test out these new enhancements on &lt;a href=&quot;https://get.opensuse.org/leap/&quot;&gt;Leap&lt;/a&gt; or immutable desktop variants &lt;a href=&quot;https://aeondesktop.org&quot;&gt;Aeon&lt;/a&gt; and &lt;a href=&quot;https://kalpadesktop.org/&quot;&gt;Kalpa&lt;/a&gt; using &lt;a href=&quot;https://distrobox.it/&quot;&gt;Distrobox&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Users of openSUSE-repos on Tumblweed gained &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mediahandler=curl2&lt;/code&gt; as part of the &lt;a href=&quot;https://github.com/openSUSE/openSUSE-repos/blob/main/opensuse-tumbleweed-repoindex.xml&quot;&gt;repository urls&lt;/a&gt; as well as preset &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ZYPP_PCK_PRELOAD=1 via /etc/profile.d/opensuse_repos.sh&lt;/code&gt; with the latest openSUSE-repos update.&lt;/p&gt;
+
+&lt;p&gt;Leap 15 and 16 users can currently get the zypper update with these enhancements from the development repository.&lt;/p&gt;
+
+&lt;p&gt;To install the updated packages, users can switch to a root shell with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo su -&lt;/code&gt; and run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;zypper in &amp;lt;package-name&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://download.opensuse.org/repositories/zypp:/Head/&quot;&gt;https://download.opensuse.org/repositories/zypp:/Head/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The parallel downloads should allow systems on slow or high-latency connections to make better use of available bandwidth. Metadata refreshes become more efficient with the new backend. These improvements also reduce setup time in CI/CD pipelines and automated environments.&lt;/p&gt;
+
+&lt;p&gt;The following are some benchmark results listed in the &lt;a href=&quot;https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/LOCZIG43MFJSTUIQ3VH2CRSYRCBNR4O7/&quot;&gt;email on the factory mailing list&lt;/a&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Scenario                                           Time
+--------------------------------------------  --------
+Download 100MB / ~250 packages
+Default (MultiCurl)                               68.7 sec
+New Backend (ZYPP_CURL2=1)                        29.6 sec
+Parallel Downloads (ZYPP_PCK_PRELOAD=1)           13.1 sec
+
+Download 1.02GB / 407 packages into empty rootfs
+Default (MultiCurl)                               281.1 sec
+New Backend (ZYPP_CURL2=1)                        208.5 sec
+Parallel Downloads (ZYPP_PCK_PRELOAD=1)           119.6 sec
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;These results show significant improvements in real-world scenarios with total execution time reduced by more than 50 percent in some cases.&lt;/p&gt;
+
+&lt;p&gt;Although still experimental, these options are available now for users who wish to enable and test them.&lt;/p&gt;
+
+&lt;p&gt;Users who’d like to provide feedback can respond to &lt;a href=&quot;https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/LOCZIG43MFJSTUIQ3VH2CRSYRCBNR4O7/&quot;&gt;the mailing list&lt;/a&gt; thread or &lt;a href=&quot;https://en.opensuse.org/openSUSE:Submitting_bug_reports&quot;&gt;submit a bug report&lt;/a&gt; against libzypp bugzilla component.&lt;/p&gt;
+
+&lt;p&gt;The more feedback the sooner the feature can be made official.&lt;/p&gt;
+
+&lt;h3 id=&quot;tutorial&quot;&gt;Tutorial&lt;/h3&gt;
+
+&lt;p&gt;Watch our tutorial on the &lt;a href=&quot;https://www.youtube.com/watch?v=o9vRsL_njSU&quot;&gt;openSUSE YouTube&lt;/a&gt; channel showing its use and setup.&lt;/p&gt;
+
+&lt;meta name=&quot;openSUSE, Open Source, development, Windows 10 end of support, Linux transition, Upgrade to Freedom campaign, Linux distributions, e-waste reduction, hardware sustainability, Ubuntu, Fedora, AlmaLinux, environmental benefits, secure operating systems, customizable Linux, Joanna Murzyn, KDE Akademy, electronic waste, open source, Linux alternatives, computer longevity, user-friendly Linux, live tutorials, ISO installation, Leap, Tumbleweed, Linux gaming, Linux for developers, EU, Euro&quot; content=&quot;HTML,CSS,XML,JavaScript&quot; /&gt;
+
+</content:encoded>
+    </item>
+
+    <item>
+      <guid>https://news.opensuse.org/2025/03/26/freedom-is-not-one-vender/</guid>
+      <title>Freedom Does Not Come From One Vendor</title>
+      <pubDate>Wed, 26 Mar 2025 16:00:00 +0000</pubDate>
+      <link>https://news.opensuse.org/2025/03/26/freedom-is-not-one-vender/</link>
+      <author>admin@opensuse.org (Douglas DeMaio)</author>
+      <enclosure url="https://news.opensuse.org/wp-content/uploads/2025/03/eu.png" length="75638" type="image/png" />
+      <description>As political winds shift across the globe, the digital world is not immune to the turbulence. Governments and organizations across the globe are reassessing their dependencies, especially those tied to large, centralized tech firms. While headlines paint a world splintering along geopolitical lines, the open-source community is quietly doing what...</description>
+      <content:encoded>&lt;p&gt;As political winds shift across the globe, the digital world is not immune to the turbulence. Governments and organizations across the globe are reassessing their dependencies, especially those tied to large, centralized tech firms.&lt;/p&gt;
+
+&lt;p&gt;While headlines paint a world splintering along geopolitical lines, the open-source community is quietly doing what it has always done best; building global tools for global freedom.&lt;/p&gt;
+
+&lt;p&gt;A recent example of this is an &lt;a href=&quot;https://eu-os.gitlab.io/&quot;&gt;EU OS&lt;/a&gt; initiative—a European blueprint for a locked-down, &lt;a href=&quot;https://kde.org/plasma-desktop/&quot;&gt;KDE Plasma&lt;/a&gt;-based Linux distribution aimed at public-sector use.&lt;/p&gt;
+
+&lt;p&gt;Though technically not a new operating system, EU OS serves as a proof-of-concept for deploying a Linux system.&lt;/p&gt;
+
+&lt;p&gt;The project put together info on government deployments like &lt;a href=&quot;https://en.wikipedia.org/wiki/LiMux&quot;&gt;LiMux&lt;/a&gt; in Germany and &lt;a href=&quot;https://en.wikipedia.org/wiki/GendBuntu&quot;&gt;GendBuntu&lt;/a&gt; in France, and endorses the &lt;a href=&quot;https://publiccode.eu/en/&quot;&gt;public money, public code&lt;/a&gt; philosophy.&lt;/p&gt;
+
+&lt;p&gt;However, there is a case for broader OS inclusion without piggybacking a popular EU sovereignty narrative.&lt;/p&gt;
+
+&lt;p&gt;While this naming is trying to address a narrative, a multiple Linux distributions should be integrated into any government’s strategy.&lt;/p&gt;
+
+&lt;p&gt;The current &lt;a href=&quot;https://fedoraproject.org/&quot;&gt;Fedora+KDE&lt;/a&gt; direction is mature, but relying on one distro and one desktop environment introduces avoidable risks. Instead, it would be wise for all governmnets to embrace alternatives like &lt;a href=&quot;https://aeondesktop.org&quot;&gt;Aeon&lt;/a&gt; with &lt;a href=&quot;https://www.gnome.org/&quot;&gt;GNOME&lt;/a&gt;, alongside another immutable Plasma-based choice of &lt;a href=&quot;https://kalpadesktop.org/&quot;&gt;Kalpa&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Why? Security. Different distributions and desktops reduce the risk of a single point of failure. If vulnerabilities emerge, they won’t simultaneously impact every system.&lt;/p&gt;
+
+&lt;p&gt;Another reason is tailored user experience. GNOME offers a simple interface for general office users, while KDE’s power-user features may be more appropriate for technical users.&lt;/p&gt;
+
+&lt;p&gt;As immutable OSes with transactional updates, Aeon and Kalpa share the same robust core stemming from Tumbleweed updates, which offer rollback, system integrity and layered deployments with seamless updates. Both Aeon and Kalpa were designed from the ground up for modern, containerized and cloud-hybrid environments.&lt;/p&gt;
+
+&lt;p&gt;The broader idea needing discussion for governments goes beyond what a distro standard is. In an age of ransomware, cloud lock-in, and surveillance capitalism, it’s time to move beyond traditional desktop OS thinking.&lt;/p&gt;
+
+&lt;p&gt;The open-source world already has the tools to move forward with a new way of thinking:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Immutability with transactional updates (&lt;a href=&quot;https://get.opensuse.org/microos/&quot;&gt;MicroOS&lt;/a&gt;, Aeon, Kalpa, &lt;a href=&quot;https://fedoraproject.org/atomic-desktops/kinoite/&quot;&gt;Kinoite&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Declarative system configuration (&lt;a href=&quot;https://en.opensuse.org/Agama&quot;&gt;Agama&lt;/a&gt;, &lt;a href=&quot;https://github.com/ansible/ansible&quot;&gt;Ansible&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Desktop options for varying user needs (GNOME, KDE Plasma, &lt;a href=&quot;https://www.xfce.org/&quot;&gt;Xfce&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Open identity and authentication standards (&lt;a href=&quot;https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol&quot;&gt;LDAP&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/OpenID&quot;&gt;OpenID&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Transparent package formats (&lt;a href=&quot;https://flatpak.org/&quot;&gt;Flatpak&lt;/a&gt;, RPM)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let’s not get lost in the flags, logos or headlines. While politics shift and trade alliances fray, the open-source movement remains one of the most stable, borderless, and collaborative human endeavors on the planet.&lt;/p&gt;
+
+&lt;p&gt;If you’re looking for freedom, look no further than this space — it’s been enduring longer than the EU’s own monetary standard.&lt;/p&gt;
+
+&lt;p&gt;The future of tech doesn’t need to be American. It doesn’t need to be Chinese. &lt;strong&gt;It needs to be open&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt; This is part of a series on &lt;a href=&quot;https://news.opensuse.org/category/upgrade-to-freedom&quot;&gt;Upgrade to Freedom&lt;/a&gt; where we offer reasons to transition from Windows to Linux.&lt;/small&gt;&lt;/p&gt;
+
+&lt;meta name=&quot;openSUSE, Open Source, development, Windows 10 end of support, Linux transition, Upgrade to Freedom campaign, Linux distributions, e-waste reduction, hardware sustainability, Ubuntu, Fedora, AlmaLinux, environmental benefits, secure operating systems, customizable Linux, Joanna Murzyn, KDE Akademy, electronic waste, open source, Linux alternatives, computer longevity, user-friendly Linux, live tutorials, ISO installation, Leap, Tumbleweed, Linux gaming, Linux for developers, EU, Euro&quot; content=&quot;HTML,CSS,XML,JavaScript&quot; /&gt;
+
+</content:encoded>
+    </item>
+
+    <item>
+      <guid>https://news.opensuse.org/2025/03/21/invitation-os-asia-india/</guid>
+      <title>Invitation to openSUSE.Asia Summit 2025 - Faridabad, India</title>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+      <link>https://news.opensuse.org/2025/03/21/invitation-os-asia-india/</link>
+      <author>admin@opensuse.org (openSUSE Asia Summit India Team)</author>
+      <enclosure url="https://news.opensuse.org/wp-content/uploads/2025/03/mr.png" length="670027" type="image/png" />
+      <description>29th – 31st August 2025 About openSUSE.Asia Summit We are excited to announce that the openSUSE.Asia Summit 2025 will be held in Faridabad, India. This annual event brings together passionate users, developers, and contributors from across the open-source community, particularly openSUSE and FLOSS enthusiasts. Previous summits have been widely attended...</description>
+      <content:encoded>&lt;h3 id=&quot;29th--31st-august-2025&quot;&gt;29th – 31st August 2025&lt;/h3&gt;
+
+&lt;h2 id=&quot;about-opensuseasia-summit&quot;&gt;About openSUSE.Asia Summit&lt;/h2&gt;
+&lt;p&gt;We are excited to announce that the &lt;strong&gt;openSUSE.Asia Summit 2025&lt;/strong&gt; will be held in &lt;strong&gt;Faridabad, India&lt;/strong&gt;.
+This annual event brings together passionate users, developers, and contributors from across the open-source community, particularly &lt;strong&gt;openSUSE&lt;/strong&gt; and &lt;strong&gt;FLOSS enthusiasts&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Previous summits have been widely attended by participants from &lt;strong&gt;India, China, Indonesia, Taiwan, Japan, South Korea,&lt;/strong&gt; and more.&lt;/p&gt;
+
+&lt;p&gt;Since its inception in &lt;strong&gt;Beijing (2014)&lt;/strong&gt;, the &lt;strong&gt;openSUSE.Asia Summit&lt;/strong&gt; has served as a hub for open-source contributors to meet, share knowledge, and engage in discussions about &lt;strong&gt;openSUSE&lt;/strong&gt; and other technologies running on it.&lt;/p&gt;
+
+&lt;p&gt;After a few years of virtual events due to the pandemic, we’re excited to &lt;strong&gt;once again meet in person&lt;/strong&gt; and foster communication in a &lt;strong&gt;dynamic, collaborative environment&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This year’s summit will focus on:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Knowledge exchange&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hands-on workshops&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Creating valuable connections&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;📢 &lt;strong&gt;Note:&lt;/strong&gt; We will &lt;strong&gt;not&lt;/strong&gt; accept virtual talks this year – only &lt;strong&gt;in-person presentations&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;-the-summit-dates&quot;&gt;📅 The Summit Dates&lt;/h2&gt;
+&lt;p&gt;Mark your calendars! The &lt;strong&gt;openSUSE.Asia Summit 2025&lt;/strong&gt; will take place from &lt;strong&gt;29th to 31st August 2025&lt;/strong&gt;, at a premier location in &lt;strong&gt;Faridabad, India&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;🎉 We also have an &lt;strong&gt;exciting excursion for speakers&lt;/strong&gt; planned on &lt;strong&gt;31st August 2025&lt;/strong&gt;. More details to be shared soon.&lt;/p&gt;
+
+&lt;p&gt;Additionally, consider attending:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://events.linuxfoundation.org/open-source-summit-india/&quot;&gt;&lt;strong&gt;Open Source Summit India&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://events.linuxfoundation.org/open-compliance-summit/&quot;&gt;&lt;strong&gt;Open Compliance Summit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Both events are hosted by &lt;strong&gt;The Linux Foundation&lt;/strong&gt; and will take place nearby before our summit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2025-03-21/mr.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;-venue-mriirs-faridabad-india&quot;&gt;📍 Venue: MRIIRS, Faridabad, India&lt;/h2&gt;
+&lt;p&gt;We are proud to host the &lt;strong&gt;openSUSE.Asia Summit 2025&lt;/strong&gt; at: 
+&lt;strong&gt;Manav Rachna International Institute of Research and Studies (MRIIRS)&lt;/strong&gt;, located in &lt;strong&gt;Faridabad, Haryana, India&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;🏛️ &lt;strong&gt;About the Venue&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Sector 43, Faridabad, Haryana, India&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Accessibility:&lt;/strong&gt; Easily accessible by &lt;strong&gt;public transport&lt;/strong&gt; and &lt;strong&gt;close to major hubs&lt;/strong&gt; in the &lt;strong&gt;Delhi-NCR region&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nearby City:&lt;/strong&gt; Just a short distance from &lt;strong&gt;New Delhi&lt;/strong&gt;, making it easy for attendees to travel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;📌 Stay tuned for more details on:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Exact session halls&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Accommodation options&lt;/strong&gt; near the venue&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/images/2025-03-21/stage (1).png&quot; alt=&quot;Image 1&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt;
+  &lt;img src=&quot;/assets/images/2025-03-21/audi.png&quot; alt=&quot;Image 2&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;-why-faridabad&quot;&gt;🌍 Why Faridabad?&lt;/h2&gt;
+&lt;p&gt;Faridabad, a major city in &lt;strong&gt;NCR (National Capital Region)&lt;/strong&gt;, is a &lt;strong&gt;rapidly growing tech hub&lt;/strong&gt; with a vibrant educational ecosystem.&lt;/p&gt;
+
+&lt;h3 id=&quot;️-reasons-to-attend-in-faridabad&quot;&gt;✈️ Reasons to Attend in Faridabad:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Strategic Location:&lt;/strong&gt; Easy access from &lt;strong&gt;Delhi Airport (IGI)&lt;/strong&gt; and &lt;strong&gt;well-connected public transport&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Thriving Tech Ecosystem:&lt;/strong&gt; A growing &lt;strong&gt;IT and tech industry&lt;/strong&gt;, making Faridabad an ideal summit location&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cultural &amp;amp; Culinary Experience:&lt;/strong&gt; Enjoy the rich &lt;strong&gt;history, culture, and cuisine&lt;/strong&gt; of &lt;strong&gt;Delhi-NCR&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;📌 &lt;strong&gt;Explore More:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.incredibleindia.org/&quot;&gt;Incredible India&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://delhitourism.gov.in/&quot;&gt;Delhi Tourism&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-explore-delhi-while-youre-in-india&quot;&gt;🏰 Explore Delhi While You’re in India!&lt;/h3&gt;
+&lt;p&gt;While you’re attending the &lt;strong&gt;openSUSE.Asia Summit 2025&lt;/strong&gt;, take some time to explore:&lt;/p&gt;
+
+&lt;h4 id=&quot;-historical-landmarks&quot;&gt;✨ &lt;strong&gt;Historical Landmarks:&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Red Fort&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Qutub Minar&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;India Gate&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/assets/images/2025-03-21/delhi.png&quot; alt=&quot;Centered Image&quot; width=&quot;600&quot; /&gt;
+&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;lt;/p&amp;gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;️-indian-cuisine&quot;&gt;🍽️ &lt;strong&gt;Indian Cuisine:&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Butter Chicken&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Samosas&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Chai!&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;📌 &lt;strong&gt;Plan Your Travel:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lonelyplanet.com/india&quot;&gt;Travel India&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-call-for-speakers&quot;&gt;🎤 Call for Speakers&lt;/h2&gt;
+&lt;p&gt;📢 We are officially &lt;strong&gt;opening the Call for Speakers in June 2025&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;We invite &lt;strong&gt;open-source enthusiasts, developers, and thought leaders&lt;/strong&gt; to share their insights at the summit. More information on the submission process will be available soon.&lt;/p&gt;
+
+&lt;p&gt;🎯 &lt;strong&gt;Interested in speaking?&lt;/strong&gt; Check our openSUSE events page for updates: 
+&lt;a href=&quot;https://events.opensuse.org/&quot;&gt;&lt;strong&gt;openSUSE Events Page&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;meta name=&quot;openSUSE, Open Source, development, Linux distributions, Asia, Summit, India, Faridabad&quot; content=&quot;HTML,CSS,XML,JavaScript&quot; /&gt;
+
+</content:encoded>
+    </item>
+
+    <item>
+      <guid>https://news.opensuse.org/2025/03/21/choose-freedom-not-trailware/</guid>
+      <title>Choose Freedom, Not Trialware</title>
+      <pubDate>Fri, 21 Mar 2025 07:00:00 +0000</pubDate>
+      <link>https://news.opensuse.org/2025/03/21/choose-freedom-not-trailware/</link>
+      <author>admin@opensuse.org (Douglas DeMaio)</author>
+      <enclosure url="https://news.opensuse.org/wp-content/uploads/2025/03/dive.png" length="63548" type="image/png" />
+      <description>A few weeks ago, a customer walked into a Best Buy, which is a well-known retailer in North America that sells computers, appliances and gadgets of all kinds. On a mission to buy a new laptop for a family member, the customer sought something simple, reliable and future-proof. After browsing...</description>
+      <content:encoded>&lt;p&gt;A few weeks ago, a customer walked into a &lt;a href=&quot;https://www.bestbuy.com/&quot;&gt;Best Buy&lt;/a&gt;, which is a well-known retailer in North America that sells computers, appliances and gadgets of all kinds.&lt;/p&gt;
+
+&lt;p&gt;On a mission to buy a new laptop for a family member, the customer sought something simple, reliable and future-proof. After browsing through the selection, a solid &lt;a href=&quot;https://www.lenovo.com&quot;&gt;Lenovo&lt;/a&gt; laptop stood out; it had good hardware, decent battery life and no unnecessary gimmicks.&lt;/p&gt;
+
+&lt;p&gt;As the customer approached the checkout and began paying for the new laptop, the salesperson turned and asked an unexpected question:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“Would you like to prepay for Windows?”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The customer blinked in surprise.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“These computers you are displaying don’t include Windows?”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“No,”&lt;/strong&gt; the salesperson responded. &lt;strong&gt;“Windows comes with a 30-day trial offer.”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Without hesitation, the customer responded firmly:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“Absolutely not. I’m putting Linux on it.”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The salesperson hesitated, as if hearing this statement for the first time.&lt;/p&gt;
+
+&lt;p&gt;What many people don’t realize is that in certain regions, antitrust laws require manufacturers to sell computers with an option not to preinstall Windows. This is a response to decades of monopolistic practices, where users were forced to pay for a Microsoft license whether they wanted it or not. Some manufacturers have introduced Linux-preinstalled models or “no OS” options, though these remain relatively niche. In regions without such regulations, like the U.S., Windows-free computers are still uncommon outside of specialized retailers and business contracts.&lt;/p&gt;
+
+&lt;p&gt;Some stores (depending on the country) are legally required to offer a refund for the cost of the Windows license if the customer chooses not to use it. This is, however, rarely advertised. Many people don’t even know they have a choice or that there is a choice for freedom.&lt;/p&gt;
+
+&lt;p&gt;For a new laptop, install a Linux distribution like &lt;a href=&quot;https://get.opensuse.org/&quot;&gt;openSUSE’s&lt;/a&gt; &lt;a href=&quot;https://get.opensuse.org/leap/&quot;&gt;Leap&lt;/a&gt;, &lt;a href=&quot;https://en.opensuse.org/Portal:Slowroll&quot;&gt;Slowroll&lt;/a&gt;, &lt;a href=&quot;https://get.opensuse.org/tumbleweed/&quot;&gt;Tumbleweed&lt;/a&gt;, &lt;a href=&quot;https://kalpadesktop.org/&quot;&gt;Kalpa&lt;/a&gt;, &lt;a href=&quot;https://aeondesktop.org&quot;&gt;Aeon&lt;/a&gt; or others.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-you-can-do&quot;&gt;What You Can Do&lt;/h2&gt;
+
+&lt;p&gt;If you’re in the market for a new computer, don’t let the assumption of Windows dictate your purchase. Here’s how you can take control of your computing experience:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ask for a non-Windows option&lt;/strong&gt;: Many stores don’t advertise it, but some models are available without a preinstalled OS.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Request a Windows refund&lt;/strong&gt;: If your country has consumer protection laws, you might be entitled to a refund for the Windows license if you don’t use it.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Download and install openSUSE&lt;/strong&gt;: Head to get.opensuse.org and choose the version that best fits your needs. Leap for long-term stability or Tumbleweed for the latest rolling updates.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Enjoy a system without restrictions&lt;/strong&gt;: No licensing fees, no activation headaches, and no locked-down software.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Linux has always been there, unlocked and ready to go.&lt;/p&gt;
+
+&lt;p&gt;So the next time you walk into a store looking for a new computer, remember; you have a choice. And that choice can be freedom.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt; This is part of a series on &lt;a href=&quot;https://news.opensuse.org/category/upgrade-to-freedom&quot;&gt;Upgrade to Freedom&lt;/a&gt; where we offer reasons to transition from Windows to Linux.&lt;/small&gt;&lt;/p&gt;
+
+&lt;meta name=&quot;openSUSE, Open Source, development, Windows 10 end of support, Linux transition, Upgrade to Freedom campaign, Linux distributions, e-waste reduction, hardware sustainability, Ubuntu, Fedora, AlmaLinux, environmental benefits, secure operating systems, customizable Linux, Joanna Murzyn, KDE Akademy, electronic waste, open source, Linux alternatives, computer longevity, user-friendly Linux, live tutorials, ISO installation, Leap, Tumbleweed, Linux gaming, Linux for developers&quot; content=&quot;HTML,CSS,XML,JavaScript&quot; /&gt;
+
+</content:encoded>
+    </item>
+
+    <item>
+      <guid>https://news.opensuse.org/2025/03/19/suse-extends-elearning-discount/</guid>
+      <title>SUSE extends eLearning discount to openSUSE Members</title>
+      <pubDate>Wed, 19 Mar 2025 14:00:00 +0000</pubDate>
+      <link>https://news.opensuse.org/2025/03/19/suse-extends-elearning-discount/</link>
+      <author>admin@opensuse.org (Douglas DeMaio)</author>
+      <enclosure url="https://news.opensuse.org/wp-content/uploads/2025/03/suse.png" length="10777" type="image/png" />
+      <description>SUSE, the main sponsor of the openSUSE Project, is offering a discount on its eLearning platform for members looking to enhance their skills in SUSE technologies. The eLearning offers a variety of training courses that could be useful to openSUSE users, including Linux administration, Kubernetes, security and systems management. A...</description>
+      <content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.suse.com/&quot;&gt;SUSE&lt;/a&gt;, the main sponsor of the &lt;a href=&quot;https://get.opensuse.org/&quot;&gt;openSUSE Project&lt;/a&gt;, is offering a discount on its eLearning platform for members looking to enhance their skills in SUSE technologies.&lt;/p&gt;
+
+&lt;p&gt;The eLearning offers a variety of training courses that could be useful to openSUSE users, including Linux administration, Kubernetes, security and systems management.&lt;/p&gt;
+
+&lt;p&gt;A couple members from the community reached out to &lt;a href=&quot;https://www.suse.com/c/author/teasterlysuse-com/&quot;&gt;Tori Easterly&lt;/a&gt; inquiring about the possibility for members to receive a discount or a more accessible pricing option for those interested in enhancing their skills. As a result, SUSE extended a 20 percent discount.&lt;/p&gt;
+
+&lt;p&gt;Enterprise-level training allows people to learn at their own pace and convenience. The courses cover Linux fundamentals, automation and cutting-edge technologies like Kubernetes and container management. The eLearning provides unlimited access to all SUSE IT courses, spanning Linux, Systems Management, Security, Edge Computing and more. As IT evolves rapidly, the curriculum is frequently updated to reflect the latest advancements in SUSE technologies.&lt;/p&gt;
+
+&lt;p&gt;openSUSE Project members can get 20 percent off &lt;a href=&quot;https://www.suse.com/shop/elearning/&quot;&gt;SUSE eLearning&lt;/a&gt; courses using the Coupon Code &lt;strong&gt;TRAIN2025&lt;/strong&gt; upon checkout.&lt;/p&gt;
+
+&lt;meta name=&quot;openSUSE, Open Source, development, Linux, SUSE, sponsorship, training, IT courses, edge, sysadmin, kubernetes&quot; content=&quot;HTML,CSS,XML,JavaScript&quot; /&gt;
+
+</content:encoded>
+    </item>
+
+  </channel>
+</rss>
+

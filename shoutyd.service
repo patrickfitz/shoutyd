@@ -1,0 +1,11 @@
+[Unit]
+Description=ShoutyD System News Gatherer
+After=graphical-session.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /opt/shoutyd/shoutyd.py
+Restart=on-failure
+
+[Install]
+WantedBy=default.target

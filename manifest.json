@@ -1,0 +1,47 @@
+{
+  "app-id": "org.geekos.shoutyd",
+  "runtime": "org.freedesktop.Platform",
+  "runtime-version": "24.08",
+  "sdk": "org.freedesktop.Sdk",
+  "command": "shoutyd-launch",
+  "finish-args": [
+    "--share=network",
+    "--filesystem=xdg-data",
+    "--filesystem=xdg-config",
+    "--socket=wayland",
+    "--socket=x11",
+    "--talk-name=org.freedesktop.portal.Desktop",
+    "--talk-name=org.freedesktop.Flatpak",
+    "--filesystem=host",
+    "--socket=system-bus",
+    "--socket=session-bus",
+    "--talk-name=org.freedesktop.Flatpak",
+    "--device=all"
+  ],
+  "modules": [
+    "pip-dependencies.json",
+    {
+      "name": "shoutyd",
+      "buildsystem": "simple",
+      "build-commands": [
+        "install -D shoutyd.py /app/bin/shoutyd-launch",
+        "install -Dm755 cache/libwebui-2.so /app/lib/libwebui-2.so",
+        "cp  settings.py /app/bin/",
+        "cp -r templates /app/bin/",
+        "cp -r static /app/bin/",
+        "cp -r babik /app/bin/",
+        "cp -r data /app/bin/data/"
+      ],
+      "sources": [
+        {
+          "type": "dir",
+          "path": "."
+        },
+        {
+          "type": "file",
+          "path": "cache/libwebui-2.so"
+        }
+      ]
+    }
+  ]
+}
